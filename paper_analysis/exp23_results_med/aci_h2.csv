@@ -1,0 +1,18 @@
+model,contrast,marker,prediction_direction,specification,in_realised_rule,estimate_late_minus_early,ci_low,ci_high,p_value,verdict,p_holm
+medgemma,P1 - P0,psychosocial_per_100,lower,pre-specified,1,-0.1460840857480406,-0.5313743985905621,0.2652687694151314,0.491,not confirmed,0.982
+medgemma,P1 - P0,med_per_100,higher,pre-specified,1,1.704561909325439,-0.2014779001104727,3.59931735418214,0.078,not confirmed,0.2339999999999999
+medgemma,P1 - P0,share_open,lower,pre-specified,1,-0.126374859708193,-0.2658375305250305,0.027284243724984,0.106,not confirmed,0.318
+medgemma,P2 - P1,psychosocial_per_100,higher,pre-specified,1,-0.1186595056594289,-0.5118795639190108,0.2857844102229523,0.55,not confirmed,0.982
+medgemma,P3 - P0,psychosocial_per_100,higher,pre-specified,1,-0.92493284619955,-1.3783207563322772,-0.4721422275393966,0.0,confirmed,0.0
+medgemma,P3 - P0,share_open,higher,pre-specified,1,-0.0646745230078563,-0.1995609721454456,0.0654778503486615,0.344,not confirmed,0.344
+medgemma,P4 - P0,psychosocial_per_100,higher,pre-specified,1,-2.87975472809402,-3.628197071907946,-2.1510007792824464,0.0,confirmed,0.0
+medgemma,P4 - P0,share_open,higher,pre-specified,1,-0.1145382395382395,-0.2671359315819915,0.040513136244095,0.138,not confirmed,0.318
+medgemma,P4 - P0,med_per_100,lower,pre-specified,1,1.1142942296368834,-0.6539284024415903,2.859373132150017,0.224,not confirmed,0.448
+medgemma,P4 - P3,psychosocial_per_100,higher,pre-specified,1,-1.9548218818944705,-2.690902930132107,-1.2386118127487968,0.0,confirmed,0.0
+medgemma,P4 - P3,med_per_100,lower,pre-specified,1,0.2093936218151817,-1.0919151731355885,1.4826791154088823,0.792,not confirmed,0.792
+medgemma,P5 - P0,instruction_per_100,higher,pre-specified,1,0.1215141602730468,-0.0102253641603754,0.2550081871889086,0.076,not confirmed,0.076
+medgemma,P5 - P0,n_leading,higher,pre-specified,1,-0.0147058823529411,-0.0539215686274509,0.0245098039215686,0.553,not confirmed,0.553
+medgemma,P5 - P0,invitation_per_100,lower,pre-specified,1,0.2314225513301808,0.0105309478117299,0.4657364327148149,0.037,confirmed,0.037
+medgemma,P5 - P0,share_open,lower,pre-specified,1,-0.2140121759622937,-0.3452191908450018,-0.0778479525554392,0.003,opposite,0.012
+medgemma,P5 - P0,has_question,lower,pre-specified,0,-0.1274509803921568,-0.2303921568627451,-0.034313725490196,0.009,opposite,0.009
+medgemma,P5 - P0,plan_statement_present,higher,pre-specified,0,0.0196078431372549,-0.0588235294117647,0.1029411764705882,0.675,not confirmed,0.675

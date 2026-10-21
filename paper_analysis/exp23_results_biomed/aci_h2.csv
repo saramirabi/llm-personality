@@ -1,0 +1,18 @@
+model,contrast,marker,prediction_direction,specification,in_realised_rule,estimate_late_minus_early,ci_low,ci_high,p_value,verdict,p_holm
+biomedllama,P1 - P0,psychosocial_per_100,lower,pre-specified,1,0.1873827709113646,-0.176138501994389,0.5305701558784596,0.317,not confirmed,0.317
+biomedllama,P1 - P0,med_per_100,higher,pre-specified,1,-0.3918843862963211,-1.5694974787206186,0.7561349962480358,0.477,not confirmed,0.987
+biomedllama,P1 - P0,share_open,lower,pre-specified,1,-0.1138443935926773,-0.2428470499035015,0.0146694700669197,0.082,not confirmed,0.328
+biomedllama,P2 - P1,psychosocial_per_100,higher,pre-specified,1,-0.3308272895804943,-0.7387744370753193,0.0801278877339934,0.107,not confirmed,0.214
+biomedllama,P3 - P0,psychosocial_per_100,higher,pre-specified,1,-0.9624480216243216,-1.5360061193851169,-0.4104321287599013,0.002,confirmed,0.008
+biomedllama,P3 - P0,share_open,higher,pre-specified,1,-0.0249706227967097,-0.199883626874289,0.1479175062327103,0.758,not confirmed,0.758
+biomedllama,P4 - P0,psychosocial_per_100,higher,pre-specified,1,-2.0783265175558645,-2.705051033426022,-1.4241036689786042,0.0,confirmed,0.0
+biomedllama,P4 - P0,share_open,higher,pre-specified,1,-0.0951897018970189,-0.2445028715979917,0.0649457832973417,0.235,not confirmed,0.705
+biomedllama,P4 - P0,med_per_100,lower,pre-specified,1,-0.4439734520973195,-1.650631709741801,0.728501279574236,0.487,not confirmed,0.987
+biomedllama,P4 - P3,psychosocial_per_100,higher,pre-specified,1,-1.1158784959315424,-1.8890580175592768,-0.2900764502943423,0.005,confirmed,0.015
+biomedllama,P4 - P3,med_per_100,lower,pre-specified,1,-0.5697916663273075,-1.7628740454746674,0.6202883875516364,0.329,not confirmed,0.987
+biomedllama,P5 - P0,instruction_per_100,higher,pre-specified,1,-0.010532743966537,-0.1335631949140655,0.1083417090047821,0.892,not confirmed,0.892
+biomedllama,P5 - P0,n_leading,higher,pre-specified,1,-0.0245098039215686,-0.0637254901960784,0.0196078431372549,0.308,not confirmed,0.308
+biomedllama,P5 - P0,invitation_per_100,lower,pre-specified,1,-0.1620552018744162,-0.3410145230412921,0.0188668154532443,0.083,not confirmed,0.083
+biomedllama,P5 - P0,share_open,lower,pre-specified,1,-0.0727719907407407,-0.2008332549093418,0.053858173076923,0.268,not confirmed,0.705
+biomedllama,P5 - P0,has_question,lower,pre-specified,0,-0.0392156862745098,-0.1715686274509804,0.0931372549019607,0.571,not confirmed,0.571
+biomedllama,P5 - P0,plan_statement_present,higher,pre-specified,0,-0.0147058823529411,-0.142156862745098,0.1029411764705882,0.829,not confirmed,0.829

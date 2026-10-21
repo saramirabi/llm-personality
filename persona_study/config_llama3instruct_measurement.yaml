@@ -1,0 +1,7 @@
+# Measurement for the Meta Llama 3 8B Instruct E1 table only.
+# config.yaml analysis_output_files is left pointing at Gemini, Claude, and GPT.
+
+frozen_dir: "data/frozen"
+main_frozen_filename: "p2_contexts_FROZEN.csv"
+prompt_file: "prompts/p2_prompts_v1.yaml"
+analysis_output_files: [outputs/main_llama3instruct_cleaned.csv]

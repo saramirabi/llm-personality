@@ -1,0 +1,18 @@
+contrast,marker,verdict_main,verdict_sensitivity,changed,plan_sha256
+P1 - P0,med_per_100,not confirmed,not confirmed,0,c742158d7ae455ffa11d0551922fbdf5321b0c49504fcba19ac92c71d3c810f2
+P1 - P0,psychosocial_per_100,opposite,opposite,0,c742158d7ae455ffa11d0551922fbdf5321b0c49504fcba19ac92c71d3c810f2
+P1 - P0,share_open,not confirmed,not confirmed,0,c742158d7ae455ffa11d0551922fbdf5321b0c49504fcba19ac92c71d3c810f2
+P2 - P1,psychosocial_per_100,opposite,opposite,0,c742158d7ae455ffa11d0551922fbdf5321b0c49504fcba19ac92c71d3c810f2
+P3 - P0,psychosocial_per_100,confirmed,confirmed,0,c742158d7ae455ffa11d0551922fbdf5321b0c49504fcba19ac92c71d3c810f2
+P3 - P0,share_open,opposite,opposite,0,c742158d7ae455ffa11d0551922fbdf5321b0c49504fcba19ac92c71d3c810f2
+P4 - P0,med_per_100,not confirmed,not confirmed,0,c742158d7ae455ffa11d0551922fbdf5321b0c49504fcba19ac92c71d3c810f2
+P4 - P0,psychosocial_per_100,confirmed,confirmed,0,c742158d7ae455ffa11d0551922fbdf5321b0c49504fcba19ac92c71d3c810f2
+P4 - P0,share_open,not confirmed,not confirmed,0,c742158d7ae455ffa11d0551922fbdf5321b0c49504fcba19ac92c71d3c810f2
+P4 - P3,med_per_100,not confirmed,not confirmed,0,c742158d7ae455ffa11d0551922fbdf5321b0c49504fcba19ac92c71d3c810f2
+P4 - P3,psychosocial_per_100,not confirmed,not confirmed,0,c742158d7ae455ffa11d0551922fbdf5321b0c49504fcba19ac92c71d3c810f2
+P5 - P0,has_question,not confirmed,not confirmed,0,c742158d7ae455ffa11d0551922fbdf5321b0c49504fcba19ac92c71d3c810f2
+P5 - P0,instruction_per_100,not confirmed,not confirmed,0,c742158d7ae455ffa11d0551922fbdf5321b0c49504fcba19ac92c71d3c810f2
+P5 - P0,invitation_per_100,confirmed,confirmed,0,c742158d7ae455ffa11d0551922fbdf5321b0c49504fcba19ac92c71d3c810f2
+P5 - P0,n_leading,not confirmed,not confirmed,0,c742158d7ae455ffa11d0551922fbdf5321b0c49504fcba19ac92c71d3c810f2
+P5 - P0,plan_statement_present,confirmed,confirmed,0,c742158d7ae455ffa11d0551922fbdf5321b0c49504fcba19ac92c71d3c810f2
+P5 - P0,share_open,not confirmed,not confirmed,0,c742158d7ae455ffa11d0551922fbdf5321b0c49504fcba19ac92c71d3c810f2

@@ -1,0 +1,18 @@
+contrast,marker,verdict_main,verdict_sensitivity,changed,plan_sha256
+P1 - P0,med_per_100,confirmed,confirmed,0,c1747f993babaa05f8dd3c99543584d8555cb9212138a92e909972505a210450
+P1 - P0,psychosocial_per_100,not confirmed,not confirmed,0,c1747f993babaa05f8dd3c99543584d8555cb9212138a92e909972505a210450
+P1 - P0,share_open,opposite,opposite,0,c1747f993babaa05f8dd3c99543584d8555cb9212138a92e909972505a210450
+P2 - P1,psychosocial_per_100,not confirmed,not confirmed,0,c1747f993babaa05f8dd3c99543584d8555cb9212138a92e909972505a210450
+P3 - P0,psychosocial_per_100,confirmed,confirmed,0,c1747f993babaa05f8dd3c99543584d8555cb9212138a92e909972505a210450
+P3 - P0,share_open,opposite,opposite,0,c1747f993babaa05f8dd3c99543584d8555cb9212138a92e909972505a210450
+P4 - P0,med_per_100,not confirmed,not confirmed,0,c1747f993babaa05f8dd3c99543584d8555cb9212138a92e909972505a210450
+P4 - P0,psychosocial_per_100,confirmed,confirmed,0,c1747f993babaa05f8dd3c99543584d8555cb9212138a92e909972505a210450
+P4 - P0,share_open,not confirmed,not confirmed,0,c1747f993babaa05f8dd3c99543584d8555cb9212138a92e909972505a210450
+P4 - P3,med_per_100,not confirmed,not confirmed,0,c1747f993babaa05f8dd3c99543584d8555cb9212138a92e909972505a210450
+P4 - P3,psychosocial_per_100,not confirmed,not confirmed,0,c1747f993babaa05f8dd3c99543584d8555cb9212138a92e909972505a210450
+P5 - P0,has_question,not confirmed,not confirmed,0,c1747f993babaa05f8dd3c99543584d8555cb9212138a92e909972505a210450
+P5 - P0,instruction_per_100,confirmed,confirmed,0,c1747f993babaa05f8dd3c99543584d8555cb9212138a92e909972505a210450
+P5 - P0,invitation_per_100,not confirmed,not confirmed,0,c1747f993babaa05f8dd3c99543584d8555cb9212138a92e909972505a210450
+P5 - P0,n_leading,not confirmed,not confirmed,0,c1747f993babaa05f8dd3c99543584d8555cb9212138a92e909972505a210450
+P5 - P0,plan_statement_present,not confirmed,not confirmed,0,c1747f993babaa05f8dd3c99543584d8555cb9212138a92e909972505a210450
+P5 - P0,share_open,not confirmed,not confirmed,0,c1747f993babaa05f8dd3c99543584d8555cb9212138a92e909972505a210450

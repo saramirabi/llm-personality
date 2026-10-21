@@ -1,0 +1,18 @@
+model,contrast,marker,prediction_direction,specification,in_realised_rule,estimate_late_minus_early,ci_low,ci_high,p_value,verdict,p_holm
+gpt,P1 - P0,psychosocial_per_100,lower,pre-specified,1,0.758132739678939,0.3406324799105023,1.1797058590478682,0.0,confirmed,0.0
+gpt,P1 - P0,med_per_100,higher,pre-specified,1,0.7417611816610874,-0.5660339502019436,1.9850704939338255,0.278,not confirmed,0.8340000000000001
+gpt,P1 - P0,share_open,lower,pre-specified,1,-0.3663113897596656,-0.5287776925698705,-0.2127705402370068,0.0,opposite,0.0
+gpt,P2 - P1,psychosocial_per_100,higher,pre-specified,1,-0.4591296953471468,-0.7868452077795018,-0.1271565195835582,0.007,confirmed,0.014
+gpt,P3 - P0,psychosocial_per_100,higher,pre-specified,1,-0.7828419770195798,-1.392820172399953,-0.1607730483936071,0.01,confirmed,0.014
+gpt,P3 - P0,share_open,higher,pre-specified,1,0.0381952781112444,-0.0998163272165086,0.1768127464782712,0.581,not confirmed,1.0
+gpt,P4 - P0,psychosocial_per_100,higher,pre-specified,1,-1.9208563364207496,-2.5727098253221463,-1.244309246005955,0.0,confirmed,0.0
+gpt,P4 - P0,share_open,higher,pre-specified,1,0.0028571428571428,-0.1419371946076096,0.1546259839243251,0.977,not confirmed,1.0
+gpt,P4 - P0,med_per_100,lower,pre-specified,1,-0.4093198691700159,-1.7806914940983471,0.7650564348923371,0.508,not confirmed,1.0
+gpt,P4 - P3,psychosocial_per_100,higher,pre-specified,1,-1.1380143594011694,-1.7547580575418391,-0.4498422055885315,0.0,confirmed,0.0
+gpt,P4 - P3,med_per_100,lower,pre-specified,1,-0.0383148534868404,-1.0033590115115991,0.8656850270221883,0.934,not confirmed,1.0
+gpt,P5 - P0,instruction_per_100,higher,pre-specified,1,-0.1759786420579108,-0.3648182461006698,-0.0035662557990559,0.044,confirmed,0.044
+gpt,P5 - P0,n_leading,higher,pre-specified,1,0.0049019607843137,0.0,0.0147058823529411,0.735,not confirmed,0.735
+gpt,P5 - P0,invitation_per_100,lower,pre-specified,1,0.0528994307160035,-0.0833985433577308,0.1989607955883149,0.462,not confirmed,0.462
+gpt,P5 - P0,share_open,lower,pre-specified,1,-0.1469785575048733,-0.3116966093129281,9.2825471014745e-05,0.051,not confirmed,0.153
+gpt,P5 - P0,has_question,lower,pre-specified,0,0.2107843137254902,0.0980392156862745,0.3284313725490196,0.0,confirmed,0.0
+gpt,P5 - P0,plan_statement_present,higher,pre-specified,0,0.0049019607843137,-0.1029411764705882,0.1128676470588229,0.952,not confirmed,0.952

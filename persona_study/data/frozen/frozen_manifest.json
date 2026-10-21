@@ -1,0 +1,42 @@
+{
+  "created_at": "2026-10-02T10:52:25+10:00",
+  "git_commit": "82e819c46869ebbd40154b9f45628d349f05945a",
+  "numpy_version": "2.5.2",
+  "seed": 20261002,
+  "parameters": {
+    "min_gap": 1,
+    "sample_pool": "eligible_pool_gap1.csv",
+    "min_spacing": 2,
+    "max_target_words": 40,
+    "pilot_dialogues": 20,
+    "subset_dialogues": 50,
+    "kept_dialogues": 268,
+    "dropped_dialogues": [
+      "RES0140",
+      "RES0142",
+      "RES0170",
+      "RES0217"
+    ]
+  },
+  "filter_regexes": {
+    "target_question_regex": "\\?[\\s\"']*$",
+    "target_exclusion_regex": "(any (other )?questions|questions or concerns|anything else (you|that you)|have a (great|good|nice)|take care)",
+    "target_exclusion_flags": "IGNORECASE",
+    "max_target_words": "whitespace-separated words after strip"
+  },
+  "row_counts": {
+    "gap1_pool": 7592,
+    "strict_filter_before_exclusion": 7237,
+    "gap1_rows_in_either_paper1_freeze": 24,
+    "strict_rows_removed_by_either_freeze": 1,
+    "filtered_after_exclusion": 7236,
+    "main_sample": 804,
+    "pilot": 60,
+    "subset_rows": 150,
+    "subset_dialogues": 50
+  },
+  "sha256": {
+    "p2_contexts_FROZEN.csv": "4ed0b5b043ed0bf4446fce7cba3332bcc8a2f2d63c7908ad24877486e3d6b36d",
+    "p2_pilot.csv": "e715405ea989dfd5fb06325e634d5e8cddcdce318fee492b35b5f643e8a91a36"
+  }
+}

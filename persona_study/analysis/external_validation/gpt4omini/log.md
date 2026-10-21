@@ -1,0 +1,29 @@
+# External validation log
+
+Run at 2026-10-18T03:50:44.574346+00:00
+
+Post hoc validation, specified on 2026-10-05 after the Experiment 1 results were known.
+Mapping fixed in prespec_mapping.md before scoring. No model API was called; no existing file was modified.
+
+## Package versions
+
+- empath 0.89
+- convokit 3.0.0
+- spacy 3.7.5
+- en_core_web_sm 3.3.0
+- scispacy 0.5.5
+- numpy 1.26.4
+- pandas 2.3.3
+- scipy 1.14.0
+- scikit-learn 1.5.1
+
+## Input file SHA-256
+
+- `outputs\main_gpt_cleaned.csv`: `255644a9c5d884b4e0afd335754c2c048f227fb0dc5c335a2dc9fadaf9fa4af3`
+- `analysis\features_gpt.csv`: `e4daed554444fcc9505309f26a7e6890416b3b687816326c707cbe010d031044`
+- `analysis\results\gpt\c_predictions.csv`: `c61f639f97019f52167572eb32e5c8b7f79f87cf0fdfceb8065c059052f28147`
+- `analysis\analysis_plan_v1.yaml`: `c742158d7ae455ffa11d0551922fbdf5321b0c49504fcba19ac92c71d3c810f2`
+- `src\run_measurement.py`: `07a80f179398d9b8a1e350d1789bc226720803215be759b1ad1741d377f28f37`
+- `src\measure_text.py`: `a136f288ae6ee59291a8e319e49139ab3187bfdd896ce52026bae47dc91bf4d5`
+- `analysis\external_validation\prespec_mapping.md`: `ba9b00d61a06e51560e4ceeb308cab9eadb0c4e67cd16adf25cc2dfdcf63323c`
+- `analysis\external_validation\external_validation_models.py`: `1ab7af6379fda14ecb6b2fcc82c5b007f67c7897790078227029be160af3e108`

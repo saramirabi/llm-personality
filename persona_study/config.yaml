@@ -1,0 +1,88 @@
+# Paths and parameters for the persona-study eligible-pool step.
+# Input paths are read-only. Outputs are relative to this file's directory.
+
+osce_dialogues_path: "data/source/osce/Clean Transcripts"
+paper1_frozen_csv: "persona_study/data/prior_study/final_1500_TRULY_FROZEN.csv"
+paper1_characteristics_csv: "persona_study/data/prior_study/candidate_characteristics_v3.csv"
+
+# Paper 1 eligibility threshold: completed patient turns before the target.
+min_completed_exchanges: 2
+
+# Clinician-turn gap around each paper 1 target. Distance <= gap is removed.
+min_gaps: [0, 1, 2]
+
+context_id_prefix: "P2_"
+
+pool_dir: "data"
+report_dir: "reports"
+pool_filenames: [eligible_pool_gap0.csv, eligible_pool_gap1.csv, eligible_pool_gap2.csv]
+human_reference_filename: "human_reference_not_for_analysis.csv"
+report_filename: "pool_audit.md"
+
+# Freeze step. Paper 1 inputs are read-only.
+min_gap: 1
+sample_pool_filename: "eligible_pool_gap1.csv"
+seed: 20261002
+min_spacing: 2
+max_target_words: 40
+pilot_dialogues: 20
+subset_dialogues: 50
+paper1_prereplacement_frozen_csv: "persona_study/data/prior_study/final_1500_FROZEN.csv"
+target_question_regex: '\?[\s"']*$'
+target_exclusion_regex: '(any (other )?questions|questions or concerns|anything else (you|that you)|have a (great|good|nice)|take care)'
+frozen_dir: "data/frozen"
+main_frozen_filename: "p2_contexts_FROZEN.csv"
+pilot_frozen_filename: "p2_pilot.csv"
+manifest_filename: "frozen_manifest.json"
+freeze_report_filename: "freeze_report.md"
+
+# Generation harness. Cheapest current text model on the Gemini Developer API
+# standard price list (October 2026): gemini-2.5-flash-lite, $0.10 / $0.40 per 1M tokens.
+# thinking_budget 0 is the documented way to disable thinking on this model.
+model_id: "gemini-2.5-flash-lite"
+thinking_budget: 0
+max_output_tokens: 65536
+concurrency: 4
+max_attempts: 5
+retry_initial_seconds: 2
+retry_multiplier: 2
+request_shuffle_seed: 20261002
+gemini_api_key_env: "GEMINI_API_KEY"
+prompt_file: "prompts/p2_prompts_v1.yaml"
+pilot_output_jsonl: "outputs/pilot_gemini.jsonl"
+main_output_jsonl: "outputs/main_gemini.jsonl"
+conditions: [P0, P1, P2, P3, P4, P5]
+
+# Measurement pipeline. One cleaned output file per model. The model name is
+# taken from the filename: main_<model>_cleaned.csv.
+analysis_output_files: [outputs/main_gemini_cleaned.csv, outputs/main_claude_cleaned.csv, outputs/main_gpt_cleaned.csv]
+
+# Claude main run. Cheapest active Claude API model on the 2 Oct 2026 price
+# list: Haiku 4.5 at $1 / $5 per million tokens. Haiku 3.5 is $0.80 / $4 but
+# retired on the Claude API. Thinking is omitted because the documented default
+# is off, and thinking.type disabled returns 400.
+claude_model_id: "claude-haiku-4-5-20251001"
+claude_main_output_jsonl: "outputs/main_claude.jsonl"
+anthropic_api_key_env: "ANTHROPIC_API_KEY"
+claude_max_output_tokens: 64000
+
+# GPT replacement run, 18 Oct 2026. gpt-5-nano-2025-08-07 wrote long structured
+# lists rather than one spoken turn. gpt-4o-mini-2024-07-18 is a small
+# non-reasoning general model, priced at $0.15 / $0.60 per million tokens,
+# beside Gemini 2.5 Flash-Lite ($0.10 / $0.40) and Claude Haiku 4.5.
+# It has no reasoning parameter. Documented maximum output is 16,384 tokens.
+# The previous nano outputs are in outputs/gpt5nano_backup/.
+gpt_model_id: "gpt-4o-mini-2024-07-18"
+gpt_main_output_jsonl: "outputs/main_gpt.jsonl"
+openai_api_key_env: "OPENAI_API_KEY"
+gpt_max_output_tokens: 16384
+gpt_reasoning_effort: "omitted"
+
+# Experiment 2. Official Gemini model page lists gemini-2.5-flash as the stable
+# model code, with an output token limit of 65536. The thinking guide says
+# 2.5 Flash disables thinking with thinkingBudget 0.
+patient_model_id: "gemini-2.5-flash"
+patient_thinking_budget: 0
+patient_max_output_tokens: 65536
+rollout_dir: "outputs/rollouts"
+patient_prompt_file: "prompts/p2_patient_v2.yaml"

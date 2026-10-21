@@ -1,0 +1,10 @@
+version,model,confirmed_of_15_base,confirmed_of_2_extra_p5,opposite,changed_from_full
+FULL,claude,9,2,0,0
+FULL,gemini,11,2,0,0
+FULL,gpt,14,2,0,0
+T1S,claude,8,2,0,1
+T1S,gemini,9,2,0,2
+T1S,gpt,7,1,1,8
+T25,claude,8,2,0,1
+T25,gemini,11,2,0,0
+T25,gpt,7,1,0,8

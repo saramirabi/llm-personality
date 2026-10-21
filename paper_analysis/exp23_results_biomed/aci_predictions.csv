@@ -1,0 +1,69 @@
+model,contrast,left,right,marker,direction,specification,in_realised_rule,scope,estimate,ci_low,ci_high,p_value,n_pairs,verdict,p_holm
+biomedllama,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,overall,-0.155507454632079,-0.3114977778977434,-0.0074966062888791,0.039,612,confirmed,0.039
+biomedllama,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,Early,-0.2711647129535158,-0.5131540000142,-0.0162913228844182,0.033,204,confirmed,0.231
+biomedllama,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,Middle,-0.1115757089005701,-0.4294976889439004,0.1851087940037624,0.485,204,not confirmed,1.0
+biomedllama,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,Late,-0.0837819420421511,-0.312147944176502,0.1552663050530961,0.468,204,not confirmed,1.0
+biomedllama,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,overall,0.3074675889425077,-0.1618526845963162,0.8142668120061958,0.229,612,not confirmed,0.458
+biomedllama,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,Early,0.6750638457422484,-0.198464549602501,1.5384694844359208,0.13,204,not confirmed,1.0
+biomedllama,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,Middle,-0.0358405383606528,-0.8711967880306685,0.8098617377888276,0.948,204,not confirmed,1.0
+biomedllama,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,Late,0.2831794594459273,-0.5521010770124696,1.1131491206041737,0.558,204,not confirmed,1.0
+biomedllama,P1 - P0,P1,P0,share_open,lower,pre-specified,1,overall,0.0063405797101449,-0.0574136636636636,0.0660460992907801,0.838,184,not confirmed,0.838
+biomedllama,P1 - P0,P1,P0,share_open,lower,pre-specified,1,Early,0.0217391304347826,-0.072463768115942,0.1159420289855072,0.702,92,not confirmed,1.0
+biomedllama,P1 - P0,P1,P0,share_open,lower,pre-specified,1,Middle,0.0493827160493827,-0.0556327160493827,0.1481481481481481,0.387,54,not confirmed,1.0
+biomedllama,P1 - P0,P1,P0,share_open,lower,pre-specified,1,Late,-0.0921052631578947,-0.1845394736842105,-0.0131578947368421,0.033,38,confirmed,0.264
+biomedllama,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,overall,0.2824647754213985,0.1106065897615019,0.4662353979149395,0.001,612,confirmed,0.003
+biomedllama,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,Early,0.5315541605088826,0.2271275798082194,0.8484219081803418,0.0,204,confirmed,0.0
+biomedllama,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,Middle,0.1151132948269245,-0.2055840384487464,0.4462905551367461,0.499,204,not confirmed,1.0
+biomedllama,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,Late,0.2007268709283883,-0.0491072235427002,0.4748803892366111,0.109,204,not confirmed,0.654
+biomedllama,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,overall,1.2644185291159626,1.0003223422316228,1.518213144966274,0.0,612,confirmed,0.0
+biomedllama,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,Early,1.8027515064458988,1.3988499182902077,2.224024574652377,0.0,204,confirmed,0.0
+biomedllama,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,Middle,1.1502005960804118,0.7061639401016184,1.573448666138313,0.0,204,confirmed,0.0
+biomedllama,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,Late,0.840303484821577,0.4604058665284144,1.210303950081928,0.0,204,confirmed,0.0
+biomedllama,P3 - P0,P3,P0,share_open,higher,pre-specified,1,overall,0.1116928446771378,0.0432075732448866,0.1804218426501034,0.002,191,confirmed,0.006
+biomedllama,P3 - P0,P3,P0,share_open,higher,pre-specified,1,Early,0.1195652173913043,0.0126358695652173,0.2228260869565217,0.028,92,confirmed,0.252
+biomedllama,P3 - P0,P3,P0,share_open,higher,pre-specified,1,Middle,0.1102150537634408,0.0161290322580645,0.2069892473118279,0.024,62,confirmed,0.24
+biomedllama,P3 - P0,P3,P0,share_open,higher,pre-specified,1,Late,0.0945945945945946,-0.054054054054054,0.2432432432432432,0.234,37,not confirmed,1.0
+biomedllama,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,overall,1.648175852307684,1.361577461748675,1.9429186395419773,0.0,612,confirmed,0.0
+biomedllama,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,Early,2.7368485926333284,2.2045332444838004,3.265451520221798,0.0,204,confirmed,0.0
+biomedllama,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,Middle,1.5491568892122594,1.1172708839115704,2.020661840326892,0.0,204,confirmed,0.0
+biomedllama,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,Late,0.658522075077464,0.2837456920701705,1.0714788024467965,0.0,204,confirmed,0.0
+biomedllama,P4 - P0,P4,P0,share_open,higher,pre-specified,1,overall,0.1981292517006803,0.1266267394054396,0.2724014336917562,0.0,196,confirmed,0.0
+biomedllama,P4 - P0,P4,P0,share_open,higher,pre-specified,1,Early,0.1805555555555555,0.0729166666666666,0.2830729166666662,0.001,96,confirmed,0.011
+biomedllama,P4 - P0,P4,P0,share_open,higher,pre-specified,1,Middle,0.3050847457627119,0.1779661016949152,0.4265536723163841,0.0,59,confirmed,0.0
+biomedllama,P4 - P0,P4,P0,share_open,higher,pre-specified,1,Late,0.0853658536585365,-0.0365853658536585,0.2195121951219512,0.214,41,not confirmed,1.0
+biomedllama,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,overall,-0.6475087016014358,-1.1491109716973344,-0.1271260336571711,0.007,612,confirmed,0.021
+biomedllama,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,Early,-0.4051409978873607,-1.3112396918868037,0.5440686679115102,0.4,204,not confirmed,1.0
+biomedllama,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,Middle,-0.6882706569322664,-1.560673208297417,0.221608379359446,0.145,204,not confirmed,1.0
+biomedllama,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,Late,-0.8491144499846802,-1.6268821067670876,-0.0708956356300616,0.036,204,confirmed,0.3239999999999999
+biomedllama,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,overall,0.3837573231917213,0.0634270722960322,0.7200241631121232,0.014,612,confirmed,0.028
+biomedllama,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,Early,0.9340970861874294,0.2626744543338269,1.582341307973951,0.004,204,confirmed,0.032
+biomedllama,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,Middle,0.3989562931318476,-0.1083938816638581,0.9273589356069164,0.126,204,not confirmed,0.654
+biomedllama,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,Late,-0.1817814097441131,-0.6484590069845138,0.3031010861104177,0.465,204,not confirmed,1.0
+biomedllama,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,overall,-0.040969860509994,-0.5337564325141532,0.4629411242271,0.888,612,not confirmed,0.888
+biomedllama,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,Early,0.2364741259236009,-0.6976595177379301,1.1588190077208391,0.604,204,not confirmed,1.0
+biomedllama,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,Middle,-0.0260661670498767,-0.871064125641609,0.88416894972415,0.976,204,not confirmed,1.0
+biomedllama,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,Late,-0.3333175404037065,-1.1089284652803852,0.5151687167826041,0.449,204,not confirmed,1.0
+biomedllama,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,overall,0.1942182007823654,0.1382202810372572,0.2491787417871822,0.0,612,confirmed,0.0
+biomedllama,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,Early,0.1631744337686122,0.0845712744943506,0.2443116565439022,0.0,204,confirmed,0.0
+biomedllama,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,Middle,0.2668384787764088,0.1696004776227588,0.3664871636483507,0.0,204,confirmed,0.0
+biomedllama,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,Late,0.1526416898020752,0.049464022481692,0.2508099282141727,0.001,204,confirmed,0.001
+biomedllama,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,overall,-0.0016339869281045,-0.0196078431372549,0.0147058823529411,0.941,612,not confirmed,0.941
+biomedllama,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,Early,0.0147058823529411,-0.0196078431372549,0.0490196078431372,0.514,204,not confirmed,1.0
+biomedllama,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,Middle,-0.0098039215686274,-0.034313725490196,0.0147058823529411,0.545,204,not confirmed,1.0
+biomedllama,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,Late,-0.0098039215686274,-0.034313725490196,0.0147058823529411,0.546,204,not confirmed,1.0
+biomedllama,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,overall,-0.0411863430684328,-0.1065239597994523,0.0288848458304617,0.226,612,not confirmed,0.226
+biomedllama,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,Early,0.0188776994041652,-0.1463048291620652,0.1862190875945641,0.818,204,not confirmed,1.0
+biomedllama,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,Middle,0.0007407738607872,-0.0909140284015148,0.091744896629044,0.974,204,not confirmed,1.0
+biomedllama,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,Late,-0.1431775024702509,-0.2463741953478437,-0.0412478863311584,0.001,204,confirmed,0.003
+biomedllama,P5 - P0,P5,P0,share_open,lower,pre-specified,1,overall,0.0676691729323308,-0.0106631161236424,0.1469881643084087,0.088,133,not confirmed,0.176
+biomedllama,P5 - P0,P5,P0,share_open,lower,pre-specified,1,Early,0.08203125,-0.0364908854166666,0.203125,0.207,64,not confirmed,1.0
+biomedllama,P5 - P0,P5,P0,share_open,lower,pre-specified,1,Middle,0.0833333333333333,-0.0714285714285714,0.238095238095238,0.324,42,not confirmed,1.0
+biomedllama,P5 - P0,P5,P0,share_open,lower,pre-specified,1,Late,0.0092592592592592,-0.0462962962962962,0.0648148148148148,0.916,27,not confirmed,1.0
+biomedllama,P5 - P0,P5,P0,has_question,lower,pre-specified,0,overall,-0.0261437908496732,-0.0784313725490196,0.0261846405228755,0.357,612,not confirmed,0.357
+biomedllama,P5 - P0,P5,P0,has_question,lower,pre-specified,0,Early,-0.0147058823529411,-0.1029411764705882,0.0735294117647058,0.801,204,not confirmed,1.0
+biomedllama,P5 - P0,P5,P0,has_question,lower,pre-specified,0,Middle,-0.0098039215686274,-0.103063725490196,0.0834558823529405,0.857,204,not confirmed,1.0
+biomedllama,P5 - P0,P5,P0,has_question,lower,pre-specified,0,Late,-0.0539215686274509,-0.1470588235294117,0.0392156862745098,0.284,204,not confirmed,0.8519999999999999
+biomedllama,P5 - P0,P5,P0,plan_statement_present,higher,pre-specified,0,overall,0.076797385620915,0.0228349673202614,0.130718954248366,0.005,612,confirmed,0.005
+biomedllama,P5 - P0,P5,P0,plan_statement_present,higher,pre-specified,0,Early,0.0735294117647058,-0.0147058823529411,0.1666666666666666,0.117,204,not confirmed,0.234
+biomedllama,P5 - P0,P5,P0,plan_statement_present,higher,pre-specified,0,Middle,0.0980392156862745,0.0098039215686274,0.181495098039215,0.037,204,confirmed,0.1109999999999999
+biomedllama,P5 - P0,P5,P0,plan_statement_present,higher,pre-specified,0,Late,0.0588235294117647,-0.0245098039215686,0.142156862745098,0.213,204,not confirmed,0.234

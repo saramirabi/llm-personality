@@ -1,0 +1,69 @@
+model,contrast,left,right,marker,direction,specification,in_realised_rule,scope,estimate,ci_low,ci_high,p_value,n_pairs,verdict,p_holm
+medgemma,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,overall,-0.1666490724720064,-0.3552541078813031,0.0144233442392579,0.069,612,not confirmed,0.112
+medgemma,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,Early,-0.0871785939796541,-0.4210314045783358,0.2407120403333964,0.586,204,not confirmed,1.0
+medgemma,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,Middle,-0.1795059437086704,-0.4749514309514932,0.1025460790607439,0.21,204,not confirmed,1.0
+medgemma,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,Late,-0.2332626797276948,-0.4996918446524805,0.0441493516355057,0.087,204,not confirmed,0.5810000000000001
+medgemma,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,overall,1.4317995528194782,0.5996297410117232,2.3202919055316134,0.002,612,confirmed,0.002
+medgemma,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,Early,0.563282406965448,-0.6600343469388956,1.7689488469998038,0.369,204,not confirmed,0.369
+medgemma,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,Middle,1.4642719352021003,-0.1846520828703704,3.3875447112406927,0.089,204,not confirmed,0.178
+medgemma,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,Late,2.267844316290887,0.7999655557256153,3.9343441975344016,0.002,204,confirmed,0.006
+medgemma,P1 - P0,P1,P0,share_open,lower,pre-specified,1,overall,0.050943396226415,-0.0102788104089219,0.110076000298859,0.107,265,not confirmed,0.214
+medgemma,P1 - P0,P1,P0,share_open,lower,pre-specified,1,Early,0.0839506172839506,-5.777271665179054e-18,0.1641975308641975,0.051,135,not confirmed,0.357
+medgemma,P1 - P0,P1,P0,share_open,lower,pre-specified,1,Middle,0.06,-0.06,0.1822222222222222,0.38,75,not confirmed,1.0
+medgemma,P1 - P0,P1,P0,share_open,lower,pre-specified,1,Late,-0.0424242424242424,-0.1666666666666666,0.0848484848484848,0.566,55,not confirmed,1.0
+medgemma,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,overall,0.1901292482406567,-0.0026924820756208,0.3689034903727881,0.056,612,not confirmed,0.112
+medgemma,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,Early,0.2558909588037341,-0.0409660330048119,0.5449934508945127,0.083,204,not confirmed,0.5810000000000001
+medgemma,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,Middle,0.1772653327739307,-0.180651033073219,0.5146000954578172,0.329,204,not confirmed,1.0
+medgemma,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,Late,0.1372314531443051,-0.1469020941908624,0.4178132034340772,0.362,204,not confirmed,1.0
+medgemma,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,overall,0.6434866791293221,0.3986616429847129,0.8896783536177624,0.0,612,confirmed,0.0
+medgemma,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,Early,1.0600730778633405,0.6527232016445683,1.4575611939254844,0.0,204,confirmed,0.0
+medgemma,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,Middle,0.7352467278608353,0.2874073395250494,1.169586841496746,0.001,204,confirmed,0.008
+medgemma,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,Late,0.1351402316637906,-0.1761151566653875,0.4591939650295181,0.431,204,not confirmed,1.0
+medgemma,P3 - P0,P3,P0,share_open,higher,pre-specified,1,overall,0.1094994311717861,0.0579571258650519,0.1632661650518793,0.0,293,confirmed,0.0
+medgemma,P3 - P0,P3,P0,share_open,higher,pre-specified,1,Early,0.1325757575757575,0.0618686868686868,0.1982323232323232,0.0,132,confirmed,0.0
+medgemma,P3 - P0,P3,P0,share_open,higher,pre-specified,1,Middle,0.1135416666666666,0.0041406249999999,0.2270833333333333,0.041,80,confirmed,0.328
+medgemma,P3 - P0,P3,P0,share_open,higher,pre-specified,1,Late,0.0679012345679012,-0.0473251028806584,0.1810699588477366,0.267,81,not confirmed,1.0
+medgemma,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,overall,2.6446719235354594,2.32247166354893,2.9896976624817078,0.0,612,confirmed,0.0
+medgemma,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,Early,3.8256581488710006,3.208988771845436,4.501624732149752,0.0,204,confirmed,0.0
+medgemma,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,Middle,3.162454200958397,2.4905129749567623,3.8929223010363616,0.0,204,confirmed,0.0
+medgemma,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,Late,0.9459034207769804,0.5946478845346777,1.3245749204882582,0.0,204,confirmed,0.0
+medgemma,P4 - P0,P4,P0,share_open,higher,pre-specified,1,overall,0.2211757990867579,0.1638931911422186,0.2735683280718795,0.0,292,confirmed,0.0
+medgemma,P4 - P0,P4,P0,share_open,higher,pre-specified,1,Early,0.226010101010101,0.148989898989899,0.3055555555555555,0.0,132,confirmed,0.0
+medgemma,P4 - P0,P4,P0,share_open,higher,pre-specified,1,Middle,0.3152610441767068,0.216867469879518,0.4116967871485941,0.0,83,confirmed,0.0
+medgemma,P4 - P0,P4,P0,share_open,higher,pre-specified,1,Late,0.1114718614718614,-0.0130411255411255,0.2402867965367963,0.083,77,not confirmed,0.498
+medgemma,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,overall,-4.190195717592188,-4.887735641165044,-3.504189597633443,0.0,612,confirmed,0.0
+medgemma,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,Early,-4.398058951794667,-5.60334784364001,-3.235626764580206,0.0,204,confirmed,0.0
+medgemma,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,Middle,-4.888763478824113,-6.030837238475025,-3.7221322165356288,0.0,204,confirmed,0.0
+medgemma,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,Late,-3.2837647221577835,-4.522273184226183,-2.079655989728623,0.0,204,confirmed,0.0
+medgemma,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,overall,2.001185244406137,1.6461003496665725,2.367279689673465,0.0,612,confirmed,0.0
+medgemma,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,Early,2.7655850710076604,2.125121176045585,3.460499931827961,0.0,204,confirmed,0.0
+medgemma,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,Middle,2.4272074730975617,1.7629459695517264,3.120316823496229,0.0,204,confirmed,0.0
+medgemma,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,Late,0.8107631891131899,0.4795453235046314,1.1613086701591908,0.0,204,confirmed,0.0
+medgemma,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,overall,-2.0467460679885043,-2.594923655075493,-1.4679963068262667,0.0,612,confirmed,0.0
+medgemma,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,Early,-1.9580615706632856,-2.947163230343602,-0.9323715864511274,0.0,204,confirmed,0.0
+medgemma,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,Middle,-2.433508684454123,-3.326832704829229,-1.4889096877487704,0.0,204,confirmed,0.0
+medgemma,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,Late,-1.748667948848104,-2.553434678695415,-0.9311382804075076,0.0,204,confirmed,0.0
+medgemma,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,overall,0.1658292690069296,0.1088649132282114,0.2306291316639706,0.0,612,confirmed,0.0
+medgemma,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,Early,0.0919329796863457,0.0274982500910196,0.1696779002543799,0.003,204,confirmed,0.003
+medgemma,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,Middle,0.1921076873750506,0.0938484386695427,0.3034749909599302,0.0,204,confirmed,0.0
+medgemma,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,Late,0.2134471399593926,0.106531922166053,0.3258583325218938,0.0,204,confirmed,0.0
+medgemma,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,overall,-0.0016339869281045,-0.0130718954248366,0.0098039215686274,0.897,612,not confirmed,0.897
+medgemma,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,Early,0.0,-0.0294117647058823,0.0294117647058823,1.0,204,not confirmed,1.0
+medgemma,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,Middle,0.0098039215686274,-0.0098039215686274,0.034313725490196,0.552,204,not confirmed,1.0
+medgemma,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,Late,-0.0147058823529411,-0.0392156862745098,0.0049019607843137,0.255,204,not confirmed,0.765
+medgemma,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,overall,-0.0373137727223863,-0.1244221695374303,0.0479903326930576,0.417,612,not confirmed,0.417
+medgemma,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,Early,-0.1469391879067509,-0.3155954132253288,0.0211528468439405,0.085,204,not confirmed,0.255
+medgemma,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,Middle,-0.0494854936838378,-0.1760751099398774,0.0885914773414084,0.441,204,not confirmed,0.482
+medgemma,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,Late,0.0844833634234298,-0.0566238933254768,0.2252739321731635,0.241,204,not confirmed,0.482
+medgemma,P5 - P0,P5,P0,share_open,lower,pre-specified,1,overall,-0.0198545861297539,-0.0744224033816425,0.0361490874528953,0.549,298,not confirmed,0.549
+medgemma,P5 - P0,P5,P0,share_open,lower,pre-specified,1,Early,0.0572139303482587,-0.017412935323383,0.1293843283582088,0.138,134,not confirmed,0.6900000000000001
+medgemma,P5 - P0,P5,P0,share_open,lower,pre-specified,1,Middle,-0.0189393939393939,-0.1079545454545454,0.0738636363636363,0.716,88,not confirmed,1.0
+medgemma,P5 - P0,P5,P0,share_open,lower,pre-specified,1,Late,-0.156798245614035,-0.282922149122807,-0.0339638157894738,0.017,76,confirmed,0.153
+medgemma,P5 - P0,P5,P0,has_question,lower,pre-specified,0,overall,0.0735294117647058,0.0326797385620915,0.1160130718954248,0.0,612,opposite,0.0
+medgemma,P5 - P0,P5,P0,has_question,lower,pre-specified,0,Early,0.1372549019607843,0.0784313725490196,0.1962009803921562,0.0,204,opposite,0.0
+medgemma,P5 - P0,P5,P0,has_question,lower,pre-specified,0,Middle,0.0735294117647058,0.0,0.1470588235294117,0.059,204,not confirmed,0.118
+medgemma,P5 - P0,P5,P0,has_question,lower,pre-specified,0,Late,0.0098039215686274,-0.0686274509803921,0.0833333333333333,0.857,204,not confirmed,0.857
+medgemma,P5 - P0,P5,P0,plan_statement_present,higher,pre-specified,0,overall,0.0294117647058823,-0.0081699346405228,0.0669934640522875,0.135,612,not confirmed,0.135
+medgemma,P5 - P0,P5,P0,plan_statement_present,higher,pre-specified,0,Early,0.0147058823529411,-0.0196078431372549,0.0490196078431372,0.506,204,not confirmed,0.8250000000000001
+medgemma,P5 - P0,P5,P0,plan_statement_present,higher,pre-specified,0,Middle,0.0392156862745098,-0.0294117647058823,0.1029411764705882,0.275,204,not confirmed,0.8250000000000001
+medgemma,P5 - P0,P5,P0,plan_statement_present,higher,pre-specified,0,Late,0.034313725490196,-0.0392156862745098,0.1078431372549019,0.405,204,not confirmed,0.8250000000000001

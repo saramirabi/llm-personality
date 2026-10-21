@@ -1,0 +1,613 @@
+version,model,contrast,left,right,marker,direction,specification,in_realised_rule,scope,estimate,ci_low,ci_high,p_value,n_pairs,verdict,p_holm,verdict_full,changed_from_full
+FULL,gemini,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,overall,-0.4539852318514099,-0.662860568414528,-0.24901728766649067,0.0,804,confirmed,0.0,confirmed,0
+FULL,gemini,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,Early,-0.35792004905131647,-0.6220671249498111,-0.10806854079823662,0.005,268,confirmed,0.025,confirmed,0
+FULL,gemini,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,Middle,-0.43464311719166665,-0.807050605285172,-0.06685346227685157,0.02,268,confirmed,0.06,confirmed,0
+FULL,gemini,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,Late,-0.5693925293112463,-0.9503743774756015,-0.1730419697987801,0.001,268,confirmed,0.006,confirmed,0
+FULL,gemini,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,overall,0.9435088082913957,0.17708310979998523,1.7247506801068757,0.019,804,confirmed,0.019,confirmed,0
+FULL,gemini,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,Early,0.8604220500754554,-0.5380376213529989,2.2376292166995513,0.244,268,not confirmed,0.32,not confirmed,0
+FULL,gemini,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,Middle,1.1378963738605576,-0.15535266450549895,2.393741756742508,0.086,268,not confirmed,0.258,not confirmed,0
+FULL,gemini,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,Late,0.8322080009381744,-0.3066956104118536,2.029968798098213,0.16,268,not confirmed,0.32,not confirmed,0
+FULL,gemini,P1 - P0,P1,P0,share_open,lower,pre-specified,1,overall,-0.008895866038723181,-0.03974903705578048,0.02025892586841663,0.542,637,not confirmed,0.784,not confirmed,0
+FULL,gemini,P1 - P0,P1,P0,share_open,lower,pre-specified,1,Early,-0.04110612855007474,-0.08893871449925263,0.008968609865470852,0.115,223,not confirmed,0.6900000000000001,not confirmed,0
+FULL,gemini,P1 - P0,P1,P0,share_open,lower,pre-specified,1,Middle,0.03571428571428571,-0.008984374999999996,0.08705357142857142,0.135,224,not confirmed,0.6900000000000001,not confirmed,0
+FULL,gemini,P1 - P0,P1,P0,share_open,lower,pre-specified,1,Late,-0.02368421052631579,-0.08157894736842106,0.031644736842104906,0.427,190,not confirmed,1.0,not confirmed,0
+FULL,gemini,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,overall,0.3175670847884855,0.1414319715904219,0.4882454418059374,0.001,804,confirmed,0.001,confirmed,0
+FULL,gemini,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,Early,0.16267326135918767,-0.0704234202525261,0.38383709373569913,0.173,268,not confirmed,0.254,not confirmed,0
+FULL,gemini,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,Middle,0.22660817680210085,-0.06652150145318884,0.5089697043812091,0.127,268,not confirmed,0.254,not confirmed,0
+FULL,gemini,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,Late,0.563419816204168,0.18611582771349677,0.9421775663604942,0.005,268,confirmed,0.025,confirmed,0
+FULL,gemini,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,overall,1.2340834368184055,0.9804064017730277,1.491784207745278,0.0,804,confirmed,0.0,confirmed,0
+FULL,gemini,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,Early,1.055064931951389,0.7206729217292563,1.398083264773925,0.0,268,confirmed,0.0,confirmed,0
+FULL,gemini,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,Middle,1.2188012494850777,0.743258072383826,1.6666033064627637,0.0,268,confirmed,0.0,confirmed,0
+FULL,gemini,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,Late,1.42838412901875,0.9834051023369503,1.9031029587449095,0.0,268,confirmed,0.0,confirmed,0
+FULL,gemini,P3 - P0,P3,P0,share_open,higher,pre-specified,1,overall,0.1636710239651416,0.12892768494738158,0.19851975444450873,0.0,612,confirmed,0.0,confirmed,0
+FULL,gemini,P3 - P0,P3,P0,share_open,higher,pre-specified,1,Early,0.1051223241590214,0.047400611620795105,0.16017775229357792,0.001,218,confirmed,0.007,confirmed,0
+FULL,gemini,P3 - P0,P3,P0,share_open,higher,pre-specified,1,Middle,0.2109500805152979,0.14893317230273748,0.2689210950080515,0.0,207,confirmed,0.0,confirmed,0
+FULL,gemini,P3 - P0,P3,P0,share_open,higher,pre-specified,1,Late,0.17959001782531192,0.11007130124777183,0.24509803921568624,0.0,187,confirmed,0.0,confirmed,0
+FULL,gemini,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,overall,3.6824272650456282,3.399758687469179,3.986621089901911,0.0,804,confirmed,0.0,confirmed,0
+FULL,gemini,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,Early,3.677813023552324,3.1808626418134724,4.203658087197145,0.0,268,confirmed,0.0,confirmed,0
+FULL,gemini,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,Middle,4.00726187211938,3.50686140876088,4.488262508185813,0.0,268,confirmed,0.0,confirmed,0
+FULL,gemini,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,Late,3.362206899465179,2.886320306719401,3.8357590059835394,0.0,268,confirmed,0.0,confirmed,0
+FULL,gemini,P4 - P0,P4,P0,share_open,higher,pre-specified,1,overall,0.3907103825136612,0.3533541671051801,0.4326201129728357,0.0,610,confirmed,0.0,confirmed,0
+FULL,gemini,P4 - P0,P4,P0,share_open,higher,pre-specified,1,Early,0.29761904761904756,0.23658854166666665,0.35714285714285715,0.0,224,confirmed,0.0,confirmed,0
+FULL,gemini,P4 - P0,P4,P0,share_open,higher,pre-specified,1,Middle,0.4909240924092409,0.42656765676567654,0.5544554455445545,0.0,202,confirmed,0.0,confirmed,0
+FULL,gemini,P4 - P0,P4,P0,share_open,higher,pre-specified,1,Late,0.39402173913043476,0.32065217391304346,0.4664855072463768,0.0,184,confirmed,0.0,confirmed,0
+FULL,gemini,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,overall,-7.028772899172959,-7.720865415193377,-6.387927894333003,0.0,804,confirmed,0.0,confirmed,0
+FULL,gemini,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,Early,-6.56348933602625,-7.7494019951647575,-5.396122722453421,0.0,268,confirmed,0.0,confirmed,0
+FULL,gemini,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,Middle,-8.411871310272838,-9.56794492308139,-7.221390609560936,0.0,268,confirmed,0.0,confirmed,0
+FULL,gemini,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,Late,-6.1109580512197885,-7.1499359689480695,-5.11345674448874,0.0,268,confirmed,0.0,confirmed,0
+FULL,gemini,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,overall,2.4483438282272223,2.1540321606911075,2.7266190357312294,0.0,804,confirmed,0.0,confirmed,0
+FULL,gemini,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,Early,2.622748091600936,2.105019984373891,3.1826694854568816,0.0,268,confirmed,0.0,confirmed,0
+FULL,gemini,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,Middle,2.788460622634302,2.2822063015653633,3.2939516158982207,0.0,268,confirmed,0.0,confirmed,0
+FULL,gemini,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,Late,1.9338227704464288,1.4254707643152889,2.3958394396355365,0.0,268,confirmed,0.0,confirmed,0
+FULL,gemini,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,overall,-2.995818414246162,-3.5445822805415745,-2.440175294214709,0.0,804,confirmed,0.0,confirmed,0
+FULL,gemini,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,Early,-2.8507094305897565,-3.894151398158948,-1.8707959928880389,0.0,268,confirmed,0.0,confirmed,0
+FULL,gemini,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,Middle,-3.1271172577174493,-4.024826065211951,-2.217917536719471,0.0,268,confirmed,0.0,confirmed,0
+FULL,gemini,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,Late,-3.0096285544312793,-3.870502977808211,-2.1378784340350325,0.0,268,confirmed,0.0,confirmed,0
+FULL,gemini,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,overall,0.1595101574691709,0.10331220148798152,0.22472838631930442,0.0,804,confirmed,0.0,confirmed,0
+FULL,gemini,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,Early,0.12199843853965767,0.043612160271337796,0.23080964113885183,0.0,268,confirmed,0.0,confirmed,0
+FULL,gemini,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,Middle,0.17101852930801106,0.06538866600683398,0.2935713324194305,0.0,268,confirmed,0.0,confirmed,0
+FULL,gemini,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,Late,0.185513504559844,0.08461382014178287,0.29744382476130476,0.0,268,confirmed,0.0,confirmed,0
+FULL,gemini,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,overall,-0.009950248756218905,-0.01990049751243781,0.0,0.09,804,not confirmed,0.09,not confirmed,0
+FULL,gemini,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,Early,-0.007462686567164179,-0.022388059701492536,0.007462686567164179,0.447,268,not confirmed,0.894,not confirmed,0
+FULL,gemini,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,Middle,-0.014925373134328358,-0.041044776119402986,0.007462686567164179,0.28,268,not confirmed,0.8400000000000001,not confirmed,0
+FULL,gemini,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,Late,-0.007462686567164179,-0.022388059701492536,0.007462686567164179,0.459,268,not confirmed,0.894,not confirmed,0
+FULL,gemini,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,overall,0.006772031514973844,-0.007260396888344109,0.025724942957024134,0.465,804,not confirmed,0.465,not confirmed,0
+FULL,gemini,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,Early,0.027075774406483292,-0.013819789939192924,0.08301052192128122,0.331,268,not confirmed,0.786,not confirmed,0
+FULL,gemini,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,Middle,0.0,0.0,0.0,1.0,268,not confirmed,1.0,not confirmed,0
+FULL,gemini,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,Late,-0.006759679861561757,-0.01757516764006057,0.0,0.262,268,not confirmed,0.786,not confirmed,0
+FULL,gemini,P5 - P0,P5,P0,share_open,lower,pre-specified,1,overall,-0.014211886304909558,-0.047619047619047616,0.01908763945977684,0.392,387,not confirmed,0.784,not confirmed,0
+FULL,gemini,P5 - P0,P5,P0,share_open,lower,pre-specified,1,Early,-0.0124777183600713,-0.06417112299465241,0.03832442067736185,0.669,187,not confirmed,1.0,not confirmed,0
+FULL,gemini,P5 - P0,P5,P0,share_open,lower,pre-specified,1,Middle,-0.018207282913165267,-0.07566526610644257,0.037815126050420166,0.564,119,not confirmed,1.0,not confirmed,0
+FULL,gemini,P5 - P0,P5,P0,share_open,lower,pre-specified,1,Late,-0.012345679012345678,-0.08024691358024691,0.05555555555555555,0.816,81,not confirmed,1.0,not confirmed,0
+FULL,gemini,P5 - P0,P5,P0,has_question,lower,exploratory,0,overall,-0.332089552238806,-0.3681592039800995,-0.2972636815920398,0.0,804,confirmed,0.0,confirmed,0
+FULL,gemini,P5 - P0,P5,P0,has_question,lower,exploratory,0,Early,-0.16417910447761194,-0.21641791044776118,-0.11567164179104478,0.0,268,confirmed,0.0,confirmed,0
+FULL,gemini,P5 - P0,P5,P0,has_question,lower,exploratory,0,Middle,-0.3880597014925373,-0.44776119402985076,-0.3283582089552239,0.0,268,confirmed,0.0,confirmed,0
+FULL,gemini,P5 - P0,P5,P0,has_question,lower,exploratory,0,Late,-0.44402985074626866,-0.5111940298507462,-0.3805970149253731,0.0,268,confirmed,0.0,confirmed,0
+FULL,gemini,P5 - P0,P5,P0,plan_statement_present,higher,exploratory,0,overall,0.2873134328358209,0.2562189054726368,0.3208955223880597,0.0,804,confirmed,0.0,confirmed,0
+FULL,gemini,P5 - P0,P5,P0,plan_statement_present,higher,exploratory,0,Early,0.11194029850746269,0.0708955223880597,0.1568097014925368,0.0,268,confirmed,0.0,confirmed,0
+FULL,gemini,P5 - P0,P5,P0,plan_statement_present,higher,exploratory,0,Middle,0.39552238805970147,0.3394589552238806,0.458955223880597,0.0,268,confirmed,0.0,confirmed,0
+FULL,gemini,P5 - P0,P5,P0,plan_statement_present,higher,exploratory,0,Late,0.35447761194029853,0.28722014925373135,0.42173507462686516,0.0,268,confirmed,0.0,confirmed,0
+FULL,claude,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,overall,-0.09009330114301094,-0.2875934207159035,0.09671685795750688,0.335,804,not confirmed,0.335,not confirmed,0
+FULL,claude,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,Early,-0.45664068244460587,-0.710879257238221,-0.21592104598990214,0.0,268,confirmed,0.0,confirmed,0
+FULL,claude,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,Middle,-0.22342032595610486,-0.4851553739272676,0.042618285004864205,0.097,268,not confirmed,0.29100000000000004,not confirmed,0
+FULL,claude,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,Late,0.40978110497167786,0.0008786693075350416,0.8176630287832031,0.047,268,opposite,0.188,opposite,0
+FULL,claude,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,overall,1.087217518868103,0.4730388652378681,1.648371551827421,0.002,804,confirmed,0.002,confirmed,0
+FULL,claude,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,Early,0.688137473060134,-0.4165407102082082,1.7433056185157538,0.208,268,not confirmed,0.416,not confirmed,0
+FULL,claude,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,Middle,1.3132028640914286,0.3099471859275221,2.2908471475910694,0.01,268,confirmed,0.03,confirmed,0
+FULL,claude,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,Late,1.2603122194527465,0.3866864049295492,2.0960380791865325,0.004,268,confirmed,0.02,confirmed,0
+FULL,claude,P1 - P0,P1,P0,share_open,lower,pre-specified,1,overall,-0.003013863773357445,-0.01871993778742115,0.012822242206235002,0.747,553,not confirmed,1.0,not confirmed,0
+FULL,claude,P1 - P0,P1,P0,share_open,lower,pre-specified,1,Early,-0.00523168908819133,-0.033632286995515695,0.02242152466367713,0.737,223,not confirmed,1.0,not confirmed,0
+FULL,claude,P1 - P0,P1,P0,share_open,lower,pre-specified,1,Middle,0.007894736842105263,-0.02368421052631579,0.039473684210526314,0.674,190,not confirmed,1.0,not confirmed,0
+FULL,claude,P1 - P0,P1,P0,share_open,lower,pre-specified,1,Late,-0.014285714285714285,-0.03571428571428571,0.0,0.263,140,not confirmed,1.0,not confirmed,0
+FULL,claude,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,overall,0.12893849141154007,-0.046103332657822925,0.30217799592059563,0.144,804,not confirmed,0.288,not confirmed,0
+FULL,claude,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,Early,0.3771133756921442,0.14535105501146817,0.608088392127581,0.003,268,confirmed,0.015,confirmed,0
+FULL,claude,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,Middle,0.18235519532059916,-0.039773796972747175,0.396699090527234,0.106,268,not confirmed,0.29100000000000004,not confirmed,0
+FULL,claude,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,Late,-0.1726530967781231,-0.5801130609290871,0.2125753986214102,0.406,268,not confirmed,0.406,not confirmed,0
+FULL,claude,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,overall,1.0572346412613993,0.8577721893306005,1.243374435627958,0.0,804,confirmed,0.0,confirmed,0
+FULL,claude,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,Early,0.920733983096543,0.613056847522656,1.2417216991578874,0.0,268,confirmed,0.0,confirmed,0
+FULL,claude,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,Middle,1.040623495477001,0.7269474481267071,1.3686770898245781,0.0,268,confirmed,0.0,confirmed,0
+FULL,claude,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,Late,1.2103464452106538,0.8760131229973034,1.5233484471198064,0.0,268,confirmed,0.0,confirmed,0
+FULL,claude,P3 - P0,P3,P0,share_open,higher,pre-specified,1,overall,0.10956459671663098,0.08442014524737443,0.1364657071783937,0.0,467,confirmed,0.0,confirmed,0
+FULL,claude,P3 - P0,P3,P0,share_open,higher,pre-specified,1,Early,0.08673469387755102,0.04336734693877551,0.13010204081632654,0.0,196,confirmed,0.0,confirmed,0
+FULL,claude,P3 - P0,P3,P0,share_open,higher,pre-specified,1,Middle,0.08333333333333333,0.04225352112676056,0.1267605633802817,0.0,142,confirmed,0.0,confirmed,0
+FULL,claude,P3 - P0,P3,P0,share_open,higher,pre-specified,1,Late,0.1731266149870801,0.11886304909560723,0.23901808785529716,0.0,129,confirmed,0.0,confirmed,0
+FULL,claude,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,overall,3.1336379003298345,2.8631173125889187,3.4140316821984427,0.0,804,confirmed,0.0,confirmed,0
+FULL,claude,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,Early,3.357112724865424,2.9366462872250856,3.7932820322786602,0.0,268,confirmed,0.0,confirmed,0
+FULL,claude,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,Middle,3.398844045104162,3.013170757757481,3.7859813592726996,0.0,268,confirmed,0.0,confirmed,0
+FULL,claude,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,Late,2.6449569310199177,2.22184497946361,3.0606700732064245,0.0,268,confirmed,0.0,confirmed,0
+FULL,claude,P4 - P0,P4,P0,share_open,higher,pre-specified,1,overall,0.2950937950937951,0.2568216206007821,0.3369143919008546,0.0,462,confirmed,0.0,confirmed,0
+FULL,claude,P4 - P0,P4,P0,share_open,higher,pre-specified,1,Early,0.3070175438596491,0.243859649122807,0.3675438596491228,0.0,190,confirmed,0.0,confirmed,0
+FULL,claude,P4 - P0,P4,P0,share_open,higher,pre-specified,1,Middle,0.30689655172413793,0.2379022988505747,0.3758620689655172,0.0,145,confirmed,0.0,confirmed,0
+FULL,claude,P4 - P0,P4,P0,share_open,higher,pre-specified,1,Late,0.2637795275590551,0.19281496062992126,0.33858267716535434,0.0,127,confirmed,0.0,confirmed,0
+FULL,claude,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,overall,-3.6595237949149344,-4.254909424445109,-3.103876059778291,0.0,804,confirmed,0.0,confirmed,0
+FULL,claude,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,Early,-4.438427990075292,-5.441198655392692,-3.4496046590733807,0.0,268,confirmed,0.0,confirmed,0
+FULL,claude,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,Middle,-3.392821362630086,-4.32452510401508,-2.4205765259276713,0.0,268,confirmed,0.0,confirmed,0
+FULL,claude,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,Late,-3.147322032039426,-3.9670555547487085,-2.3311322084573822,0.0,268,confirmed,0.0,confirmed,0
+FULL,claude,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,overall,2.076403259068435,1.8453404047353819,2.315611204614388,0.0,804,confirmed,0.0,confirmed,0
+FULL,claude,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,Early,2.4363787417688814,2.046075248056784,2.8241724150661205,0.0,268,confirmed,0.0,confirmed,0
+FULL,claude,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,Middle,2.35822054962716,1.9874803387567659,2.741004680208335,0.0,268,confirmed,0.0,confirmed,0
+FULL,claude,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,Late,1.434610485809264,1.0158496756652686,1.8784861236908434,0.0,268,confirmed,0.0,confirmed,0
+FULL,claude,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,overall,-1.3514550364431515,-1.7775544644912304,-0.9297041621979539,0.0,804,confirmed,0.0,confirmed,0
+FULL,claude,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,Early,-2.6415171060227927,-3.42136964762938,-1.8581949431268467,0.0,268,confirmed,0.0,confirmed,0
+FULL,claude,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,Middle,-1.084946810401617,-1.8714277068478007,-0.3115604239655529,0.004,268,confirmed,0.02,confirmed,0
+FULL,claude,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,Late,-0.3279011929050446,-1.0405623260061587,0.4282099652993422,0.399,268,not confirmed,0.416,not confirmed,0
+FULL,claude,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,overall,0.3516845022839615,0.28486729216582907,0.42103251977837436,0.0,804,confirmed,0.0,confirmed,0
+FULL,claude,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,Early,0.3006741415246268,0.1916318024125283,0.4082980276682673,0.0,268,confirmed,0.0,confirmed,0
+FULL,claude,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,Middle,0.3228142167233038,0.22805734497142205,0.42524706224871883,0.0,268,confirmed,0.0,confirmed,0
+FULL,claude,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,Late,0.43156514860395373,0.32604633379762477,0.5407391237268581,0.0,268,confirmed,0.0,confirmed,0
+FULL,claude,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,overall,-0.0037313432835820895,-0.011194029850746268,0.004975124378109453,0.427,804,not confirmed,0.427,not confirmed,0
+FULL,claude,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,Early,0.0,0.0,0.0,1.0,268,not confirmed,1.0,not confirmed,0
+FULL,claude,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,Middle,-0.007462686567164179,-0.022388059701492536,0.007462686567164179,0.443,268,not confirmed,1.0,not confirmed,0
+FULL,claude,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,Late,-0.0037313432835820895,-0.022388059701492536,0.014925373134328358,0.858,268,not confirmed,1.0,not confirmed,0
+FULL,claude,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,overall,-0.004105341388728186,-0.0234877274938493,0.008628240952847102,0.733,804,not confirmed,0.733,not confirmed,0
+FULL,claude,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,Early,-0.005922767116796967,-0.017768301350390904,0.0,0.738,268,not confirmed,1.0,not confirmed,0
+FULL,claude,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,Middle,0.006698866143901585,-0.003692209268296003,0.018222336860860795,0.213,268,not confirmed,0.639,not confirmed,0
+FULL,claude,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,Late,-0.013092123193289175,-0.06982804548766061,0.020111000929263313,0.726,268,not confirmed,1.0,not confirmed,0
+FULL,claude,P5 - P0,P5,P0,share_open,lower,pre-specified,1,overall,-0.0037974683544303796,-0.019127080625550293,0.011450381679389313,0.728,395,not confirmed,1.0,not confirmed,0
+FULL,claude,P5 - P0,P5,P0,share_open,lower,pre-specified,1,Early,-0.002857142857142857,-0.025714285714285714,0.017142857142857144,0.917,175,not confirmed,1.0,not confirmed,0
+FULL,claude,P5 - P0,P5,P0,share_open,lower,pre-specified,1,Middle,-0.003703703703703704,-0.037037037037037035,0.02962962962962963,0.93,135,not confirmed,1.0,not confirmed,0
+FULL,claude,P5 - P0,P5,P0,share_open,lower,pre-specified,1,Late,-0.0058823529411764705,-0.03529411764705882,0.011764705882352941,0.914,85,not confirmed,1.0,not confirmed,0
+FULL,claude,P5 - P0,P5,P0,has_question,lower,exploratory,0,overall,-0.2325870646766169,-0.26741293532338306,-0.19900497512437812,0.0,804,confirmed,0.0,confirmed,0
+FULL,claude,P5 - P0,P5,P0,has_question,lower,exploratory,0,Early,-0.11567164179104478,-0.15671641791044777,-0.07462686567164178,0.0,268,confirmed,0.0,confirmed,0
+FULL,claude,P5 - P0,P5,P0,has_question,lower,exploratory,0,Middle,-0.23134328358208955,-0.2873134328358209,-0.1791044776119403,0.0,268,confirmed,0.0,confirmed,0
+FULL,claude,P5 - P0,P5,P0,has_question,lower,exploratory,0,Late,-0.35074626865671643,-0.417910447761194,-0.2835820895522388,0.0,268,confirmed,0.0,confirmed,0
+FULL,claude,P5 - P0,P5,P0,plan_statement_present,higher,exploratory,0,overall,0.2325870646766169,0.20024875621890548,0.26744402985074606,0.0,804,confirmed,0.0,confirmed,0
+FULL,claude,P5 - P0,P5,P0,plan_statement_present,higher,exploratory,0,Early,0.16417910447761194,0.11567164179104478,0.21641791044776118,0.0,268,confirmed,0.0,confirmed,0
+FULL,claude,P5 - P0,P5,P0,plan_statement_present,higher,exploratory,0,Middle,0.22761194029850745,0.1791044776119403,0.2835820895522388,0.0,268,confirmed,0.0,confirmed,0
+FULL,claude,P5 - P0,P5,P0,plan_statement_present,higher,exploratory,0,Late,0.30597014925373134,0.2462686567164179,0.3694029850746269,0.0,268,confirmed,0.0,confirmed,0
+FULL,gpt,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,overall,-0.19730312555896043,-0.29361554204934853,-0.1035890474539228,0.0,804,confirmed,0.0,confirmed,0
+FULL,gpt,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,Early,-0.1584892676409876,-0.3121345442449419,-0.009784573999598535,0.035,268,confirmed,0.10500000000000001,confirmed,0
+FULL,gpt,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,Middle,-0.13585812300660802,-0.2986160609670738,0.02152845198962179,0.094,268,not confirmed,0.108,not confirmed,0
+FULL,gpt,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,Late,-0.2975619860292856,-0.4998432750311858,-0.10154802109659052,0.003,268,confirmed,0.012,confirmed,0
+FULL,gpt,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,overall,2.8446962112027374,2.339387440809379,3.357576843051535,0.0,804,confirmed,0.0,confirmed,0
+FULL,gpt,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,Early,1.3897132968067685,0.41322380353510896,2.322691414288266,0.008,268,confirmed,0.008,confirmed,0
+FULL,gpt,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,Middle,4.110835242315952,3.3202353606803405,4.89924717592322,0.0,268,confirmed,0.0,confirmed,0
+FULL,gpt,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,Late,3.0335400944854927,2.3736019146580736,3.7278313969662302,0.0,268,confirmed,0.0,confirmed,0
+FULL,gpt,P1 - P0,P1,P0,share_open,lower,pre-specified,1,overall,-0.22994740302432612,-0.27648411954505436,-0.18423902855463686,0.0,507,confirmed,0.0,confirmed,0
+FULL,gpt,P1 - P0,P1,P0,share_open,lower,pre-specified,1,Early,-0.09496996996996998,-0.1572916666666667,-0.03189752252252257,0.001,222,confirmed,0.004,confirmed,0
+FULL,gpt,P1 - P0,P1,P0,share_open,lower,pre-specified,1,Middle,-0.32142857142857145,-0.3958333333333333,-0.24107142857142858,0.0,168,confirmed,0.0,confirmed,0
+FULL,gpt,P1 - P0,P1,P0,share_open,lower,pre-specified,1,Late,-0.3547008547008547,-0.44871794871794873,-0.26495726495726496,0.0,117,confirmed,0.0,confirmed,0
+FULL,gpt,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,overall,0.2870175629194513,0.18657709051472887,0.38517928838004933,0.0,804,confirmed,0.0,confirmed,0
+FULL,gpt,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,Early,0.31690494134626984,0.15887435865293364,0.48142275927935013,0.0,268,confirmed,0.0,confirmed,0
+FULL,gpt,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,Middle,0.15244355292746553,-0.0016214021099403863,0.2950029898517568,0.054,268,not confirmed,0.108,not confirmed,0
+FULL,gpt,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,Late,0.3917041944846186,0.1965035631866413,0.5870033988377581,0.0,268,confirmed,0.0,confirmed,0
+FULL,gpt,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,overall,3.6075639333505607,3.403323111982339,3.8054549782849088,0.0,804,confirmed,0.0,confirmed,0
+FULL,gpt,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,Early,4.636825768583188,4.311688543849523,4.941421660802155,0.0,268,confirmed,0.0,confirmed,0
+FULL,gpt,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,Middle,3.457901300550356,3.168442487924613,3.7606960743056717,0.0,268,confirmed,0.0,confirmed,0
+FULL,gpt,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,Late,2.7279647309181394,2.403804070588475,3.0650222246655776,0.0,268,confirmed,0.0,confirmed,0
+FULL,gpt,P3 - P0,P3,P0,share_open,higher,pre-specified,1,overall,0.19083465398837823,0.14467693932411674,0.23512557435254797,0.0,631,confirmed,0.0,confirmed,0
+FULL,gpt,P3 - P0,P3,P0,share_open,higher,pre-specified,1,Early,0.07032520325203252,0.0028455284552845535,0.13780487804878047,0.039,205,confirmed,0.05399999999999999,confirmed,0
+FULL,gpt,P3 - P0,P3,P0,share_open,higher,pre-specified,1,Middle,0.18396226415094338,0.1061124213836478,0.2641509433962264,0.0,212,confirmed,0.0,confirmed,0
+FULL,gpt,P3 - P0,P3,P0,share_open,higher,pre-specified,1,Late,0.3130841121495327,0.22427959501557632,0.3987733644859812,0.0,214,confirmed,0.0,confirmed,0
+FULL,gpt,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,overall,5.701750861838476,5.4593937543787545,5.94189244777147,0.0,804,confirmed,0.0,confirmed,0
+FULL,gpt,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,Early,7.123558802459264,6.757769227647529,7.477871622338129,0.0,268,confirmed,0.0,confirmed,0
+FULL,gpt,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,Middle,5.241734396102394,4.849938315384641,5.608215081301043,0.0,268,confirmed,0.0,confirmed,0
+FULL,gpt,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,Late,4.739959386953771,4.312669778216397,5.166043489159608,0.0,268,confirmed,0.0,confirmed,0
+FULL,gpt,P4 - P0,P4,P0,share_open,higher,pre-specified,1,overall,0.2304909560723514,0.1836380818892287,0.2755183456361267,0.0,645,confirmed,0.0,confirmed,0
+FULL,gpt,P4 - P0,P4,P0,share_open,higher,pre-specified,1,Early,0.23948948948948948,0.16890015015015014,0.3078453453453452,0.0,222,confirmed,0.0,confirmed,0
+FULL,gpt,P4 - P0,P4,P0,share_open,higher,pre-specified,1,Middle,0.21933962264150944,0.1391509433962264,0.3018867924528302,0.0,212,confirmed,0.0,confirmed,0
+FULL,gpt,P4 - P0,P4,P0,share_open,higher,pre-specified,1,Late,0.23222748815165878,0.14928909952606634,0.3104265402843602,0.0,211,confirmed,0.0,confirmed,0
+FULL,gpt,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,overall,-3.2201916802952137,-3.6686539911654683,-2.789690493407659,0.0,804,confirmed,0.0,confirmed,0
+FULL,gpt,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,Early,-5.349578927487183,-6.182913367688076,-4.542611376979656,0.0,268,confirmed,0.0,confirmed,0
+FULL,gpt,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,Middle,-1.9532509309568924,-2.5649908579710394,-1.342897848700117,0.0,268,confirmed,0.0,confirmed,0
+FULL,gpt,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,Late,-2.357745182441565,-2.976757437573001,-1.7279817181070072,0.0,268,confirmed,0.0,confirmed,0
+FULL,gpt,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,overall,2.0941869284879155,1.847766380136931,2.325988198968517,0.0,804,confirmed,0.0,confirmed,0
+FULL,gpt,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,Early,2.486733033876077,2.090200909476609,2.868183861305783,0.0,268,confirmed,0.0,confirmed,0
+FULL,gpt,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,Middle,1.783833095552039,1.388011796464011,2.1375750318463296,0.0,268,confirmed,0.0,confirmed,0
+FULL,gpt,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,Late,2.0119946560356303,1.55981399530881,2.474822569606825,0.0,268,confirmed,0.0,confirmed,0
+FULL,gpt,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,overall,-1.2978177182037327,-1.6164235905550925,-0.9651102476115848,0.0,804,confirmed,0.0,confirmed,0
+FULL,gpt,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,Early,-1.6445636785751934,-2.2229873200477894,-1.0693909412056344,0.0,268,confirmed,0.0,confirmed,0
+FULL,gpt,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,Middle,-1.051155924005588,-1.6009503135857768,-0.4839688804726358,0.0,268,confirmed,0.0,confirmed,0
+FULL,gpt,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,Late,-1.1977335520304169,-1.7057383198268006,-0.6480469992096121,0.0,268,confirmed,0.0,confirmed,0
+FULL,gpt,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,overall,0.38869185510418347,0.3314494670006062,0.4474412324555754,0.0,804,confirmed,0.0,confirmed,0
+FULL,gpt,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,Early,0.40951439834305337,0.31216260359258674,0.5059165351629547,0.0,268,confirmed,0.0,confirmed,0
+FULL,gpt,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,Middle,0.4120748106834053,0.333259211250349,0.4991904319169214,0.0,268,confirmed,0.0,confirmed,0
+FULL,gpt,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,Late,0.34448635628609187,0.26338908387372395,0.4285886513397568,0.0,268,confirmed,0.0,confirmed,0
+FULL,gpt,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,overall,0.0,0.0,0.0,1.0,804,not confirmed,1.0,not confirmed,0
+FULL,gpt,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,Early,0.0,0.0,0.0,1.0,268,not confirmed,1.0,not confirmed,0
+FULL,gpt,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,Middle,0.0,0.0,0.0,1.0,268,not confirmed,1.0,not confirmed,0
+FULL,gpt,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,Late,0.0,0.0,0.0,1.0,268,not confirmed,1.0,not confirmed,0
+FULL,gpt,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,overall,-0.03613725787862139,-0.05715727630189325,-0.016255049712197284,0.0,804,confirmed,0.0,confirmed,0
+FULL,gpt,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,Early,-0.05143610294400682,-0.09367461025232059,-0.017044823220814305,0.0,268,confirmed,0.0,confirmed,0
+FULL,gpt,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,Middle,-0.022920465903849368,-0.058116355232515744,0.011856712087026338,0.198,268,not confirmed,0.198,not confirmed,0
+FULL,gpt,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,Late,-0.03405520478800799,-0.07429672025059429,0.00452842946627417,0.092,268,not confirmed,0.184,not confirmed,0
+FULL,gpt,P5 - P0,P5,P0,share_open,lower,pre-specified,1,overall,-0.13215488215488214,-0.1869599336568248,-0.076789689305674,0.0,198,confirmed,0.0,confirmed,0
+FULL,gpt,P5 - P0,P5,P0,share_open,lower,pre-specified,1,Early,-0.07768361581920905,-0.13841807909604523,-0.01836158192090395,0.018,118,confirmed,0.05399999999999999,confirmed,0
+FULL,gpt,P5 - P0,P5,P0,share_open,lower,pre-specified,1,Middle,-0.16666666666666666,-0.3113888888888889,-0.022222222222222223,0.022,45,confirmed,0.05399999999999999,confirmed,0
+FULL,gpt,P5 - P0,P5,P0,share_open,lower,pre-specified,1,Late,-0.2714285714285714,-0.41464285714285715,-0.12857142857142856,0.0,35,confirmed,0.0,confirmed,0
+FULL,gpt,P5 - P0,P5,P0,has_question,lower,pre-specified,0,overall,-0.5932835820895522,-0.6305970149253731,-0.554726368159204,0.0,804,confirmed,0.0,confirmed,0
+FULL,gpt,P5 - P0,P5,P0,has_question,lower,pre-specified,0,Early,-0.3880597014925373,-0.45149253731343286,-0.3208955223880597,0.0,268,confirmed,0.0,confirmed,0
+FULL,gpt,P5 - P0,P5,P0,has_question,lower,pre-specified,0,Middle,-0.6604477611940298,-0.7164179104477612,-0.6007462686567164,0.0,268,confirmed,0.0,confirmed,0
+FULL,gpt,P5 - P0,P5,P0,has_question,lower,pre-specified,0,Late,-0.7313432835820896,-0.7873134328358209,-0.6753731343283582,0.0,268,confirmed,0.0,confirmed,0
+FULL,gpt,P5 - P0,P5,P0,plan_statement_present,higher,pre-specified,0,overall,0.4552238805970149,0.417910447761194,0.49129353233830847,0.0,804,confirmed,0.0,confirmed,0
+FULL,gpt,P5 - P0,P5,P0,plan_statement_present,higher,pre-specified,0,Early,0.2798507462686567,0.21641791044776118,0.33955223880597013,0.0,268,confirmed,0.0,confirmed,0
+FULL,gpt,P5 - P0,P5,P0,plan_statement_present,higher,pre-specified,0,Middle,0.5186567164179104,0.44776119402985076,0.582089552238806,0.0,268,confirmed,0.0,confirmed,0
+FULL,gpt,P5 - P0,P5,P0,plan_statement_present,higher,pre-specified,0,Late,0.5671641791044776,0.5074626865671642,0.6269589552238801,0.0,268,confirmed,0.0,confirmed,0
+T25,gemini,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,overall,-0.40329169970910284,-0.615519123807858,-0.19323283809761083,0.001,804,confirmed,0.002,confirmed,0
+T25,gemini,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,Early,-0.38068054783709254,-0.6619454732687521,-0.12166952767922111,0.004,268,confirmed,0.024,confirmed,0
+T25,gemini,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,Middle,-0.3658611395833466,-0.7441245476448822,-0.006231334122111384,0.047,268,confirmed,0.14100000000000001,confirmed,0
+T25,gemini,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,Late,-0.4633334117068695,-0.8397562088029545,-0.08415821470526665,0.021,268,confirmed,0.084,confirmed,0
+T25,gemini,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,overall,0.9942456172487285,0.18416927643723668,1.81362630216073,0.021,804,confirmed,0.021,confirmed,0
+T25,gemini,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,Early,0.7120381611273499,-0.683442279350308,2.120560496003102,0.359,268,not confirmed,0.359,not confirmed,0
+T25,gemini,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,Middle,1.2700499755781052,-0.0766643598665468,2.5430388462274394,0.061,268,not confirmed,0.183,not confirmed,0
+T25,gemini,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,Late,1.0006487150407306,-0.2549800210773532,2.3055488175125873,0.126,268,not confirmed,0.252,not confirmed,0
+T25,gemini,P1 - P0,P1,P0,share_open,lower,pre-specified,1,overall,-0.021367521367521368,-0.05604054712499357,0.013739746722180465,0.209,468,not confirmed,0.264,not confirmed,0
+T25,gemini,P1 - P0,P1,P0,share_open,lower,pre-specified,1,Early,-0.04975124378109453,-0.10201077943615257,0.0008291873963515725,0.054,201,not confirmed,0.364,not confirmed,0
+T25,gemini,P1 - P0,P1,P0,share_open,lower,pre-specified,1,Middle,0.0031645569620253164,-0.05063291139240506,0.056962025316455694,0.966,158,not confirmed,1.0,not confirmed,0
+T25,gemini,P1 - P0,P1,P0,share_open,lower,pre-specified,1,Late,-0.0045871559633027525,-0.0779816513761468,0.07339449541284404,0.94,109,not confirmed,1.0,not confirmed,0
+T25,gemini,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,overall,0.25186328046915746,0.08602214533923708,0.4204107771951267,0.003,804,confirmed,0.003,confirmed,0
+T25,gemini,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,Early,0.18618400965566068,-0.042404989159485845,0.4064256679516052,0.119,268,not confirmed,0.238,not confirmed,0
+T25,gemini,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,Middle,0.11086315879853911,-0.1609414415294376,0.37406437721654007,0.404,268,not confirmed,0.404,not confirmed,0
+T25,gemini,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,Late,0.4585426729532724,0.08995352414899817,0.824591681514233,0.014,268,confirmed,0.07,confirmed,0
+T25,gemini,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,overall,0.805751177293193,0.5537097647638881,1.0599351568005635,0.0,804,confirmed,0.0,confirmed,0
+T25,gemini,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,Early,0.6626600896359587,0.3433151383829652,0.9896353782569033,0.0,268,confirmed,0.0,confirmed,0
+T25,gemini,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,Middle,0.8997291987681858,0.4289571861757238,1.3514414076278485,0.0,268,confirmed,0.0,confirmed,0
+T25,gemini,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,Late,0.8548642434754343,0.42697674036747674,1.325393426707935,0.0,268,confirmed,0.0,confirmed,0
+T25,gemini,P3 - P0,P3,P0,share_open,higher,pre-specified,1,overall,0.12878787878787878,0.07635606139735687,0.18029956502006617,0.0,264,confirmed,0.0,confirmed,0
+T25,gemini,P3 - P0,P3,P0,share_open,higher,pre-specified,1,Early,0.0948905109489051,0.02186739659367396,0.170316301703163,0.011,137,confirmed,0.09899999999999999,confirmed,0
+T25,gemini,P3 - P0,P3,P0,share_open,higher,pre-specified,1,Middle,0.21830985915492956,0.11267605633802817,0.3241197183098582,0.0,71,confirmed,0.0,confirmed,0
+T25,gemini,P3 - P0,P3,P0,share_open,higher,pre-specified,1,Late,0.09821428571428571,0.0,0.19642857142857142,0.052,56,not confirmed,0.364,confirmed,1
+T25,gemini,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,overall,2.1194110544854805,1.8131356211465326,2.426558231056979,0.0,804,confirmed,0.0,confirmed,0
+T25,gemini,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,Early,2.7884466894930124,2.2585629136907293,3.3486508558211376,0.0,268,confirmed,0.0,confirmed,0
+T25,gemini,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,Middle,1.8023300617075164,1.3062240760762418,2.2636282014861266,0.0,268,confirmed,0.0,confirmed,0
+T25,gemini,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,Late,1.7674564122559122,1.2868428855237937,2.2311184836760285,0.0,268,confirmed,0.0,confirmed,0
+T25,gemini,P4 - P0,P4,P0,share_open,higher,pre-specified,1,overall,0.2950980392156863,0.21290944123314062,0.37350740169982244,0.0,170,confirmed,0.0,confirmed,0
+T25,gemini,P4 - P0,P4,P0,share_open,higher,pre-specified,1,Early,0.2672955974842767,0.16823899371069181,0.3632075471698113,0.0,106,confirmed,0.0,confirmed,0
+T25,gemini,P4 - P0,P4,P0,share_open,higher,pre-specified,1,Middle,0.47777777777777775,0.31666666666666665,0.6333333333333333,0.0,30,confirmed,0.0,confirmed,0
+T25,gemini,P4 - P0,P4,P0,share_open,higher,pre-specified,1,Late,0.22058823529411764,0.058823529411764705,0.38235294117647056,0.013,34,confirmed,0.104,confirmed,0
+T25,gemini,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,overall,-7.018471058975899,-7.754617399231989,-6.313981631745744,0.0,804,confirmed,0.0,confirmed,0
+T25,gemini,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,Early,-6.6754885109492825,-7.928469786848117,-5.409761035877153,0.0,268,confirmed,0.0,confirmed,0
+T25,gemini,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,Middle,-8.485154466908982,-9.812179460437479,-7.201790470365535,0.0,268,confirmed,0.0,confirmed,0
+T25,gemini,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,Late,-5.894770199069431,-7.050112633477468,-4.713384240288223,0.0,268,confirmed,0.0,confirmed,0
+T25,gemini,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,overall,1.3136598771922874,0.9993681536438008,1.625193912631531,0.0,804,confirmed,0.0,confirmed,0
+T25,gemini,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,Early,2.125786599857054,1.6087727265779492,2.6846826335779816,0.0,268,confirmed,0.0,confirmed,0
+T25,gemini,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,Middle,0.9026008629393308,0.3622788596506962,1.4367787789799935,0.0,268,confirmed,0.0,confirmed,0
+T25,gemini,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,Late,0.9125921687804778,0.3735209322345687,1.3921475023012175,0.0,268,confirmed,0.0,confirmed,0
+T25,gemini,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,overall,-3.050801279531769,-3.665711743633341,-2.4378556405067737,0.0,804,confirmed,0.0,confirmed,0
+T25,gemini,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,Early,-2.8153350211031087,-3.96598314473762,-1.6958655452132982,0.0,268,confirmed,0.0,confirmed,0
+T25,gemini,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,Middle,-3.1728406253684613,-4.316373756506083,-1.9996911980994538,0.0,268,confirmed,0.0,confirmed,0
+T25,gemini,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,Late,-3.1642281921237383,-4.185006680537928,-2.167638517666488,0.0,268,confirmed,0.0,confirmed,0
+T25,gemini,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,overall,0.17474911285748404,0.11230302702560975,0.24496698930710933,0.0,804,confirmed,0.0,confirmed,0
+T25,gemini,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,Early,0.1587516960651289,0.061736770691994576,0.28561736770692,0.0,268,confirmed,0.0,confirmed,0
+T25,gemini,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,Middle,0.16483744282251747,0.053508431866640824,0.29042164303358303,0.001,268,confirmed,0.001,confirmed,0
+T25,gemini,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,Late,0.20065819968480578,0.09078047263681592,0.3237411544760669,0.0,268,confirmed,0.0,confirmed,0
+T25,gemini,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,overall,-0.0037313432835820895,-0.008706467661691543,0.0,0.116,804,not confirmed,0.116,not confirmed,0
+T25,gemini,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,Early,0.0,0.0,0.0,1.0,268,not confirmed,1.0,not confirmed,0
+T25,gemini,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,Middle,-0.0037313432835820895,-0.011194029850746268,0.0,0.767,268,not confirmed,1.0,not confirmed,0
+T25,gemini,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,Late,-0.007462686567164179,-0.018656716417910446,0.0,0.272,268,not confirmed,0.8160000000000001,not confirmed,0
+T25,gemini,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,overall,0.007523656228660619,-0.009950248756218905,0.028046044288362115,0.447,804,not confirmed,0.447,not confirmed,0
+T25,gemini,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,Early,0.02257096868598186,-0.029850746268656716,0.08413813286508634,0.447,268,not confirmed,1.0,not confirmed,0
+T25,gemini,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,Middle,0.0,0.0,0.0,1.0,268,not confirmed,1.0,not confirmed,0
+T25,gemini,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,Late,0.0,0.0,0.0,1.0,268,not confirmed,1.0,not confirmed,0
+T25,gemini,P5 - P0,P5,P0,share_open,lower,pre-specified,1,overall,-0.03136531365313653,-0.07358490566037736,0.007577203331020117,0.132,271,not confirmed,0.264,not confirmed,0
+T25,gemini,P5 - P0,P5,P0,share_open,lower,pre-specified,1,Early,-0.044585987261146494,-0.09872611464968153,0.009554140127388535,0.121,157,not confirmed,0.605,not confirmed,0
+T25,gemini,P5 - P0,P5,P0,share_open,lower,pre-specified,1,Middle,-0.022727272727272728,-0.11363636363636363,0.06818181818181818,0.685,66,not confirmed,1.0,not confirmed,0
+T25,gemini,P5 - P0,P5,P0,share_open,lower,pre-specified,1,Late,0.0,-0.09375,0.09375,1.0,48,not confirmed,1.0,not confirmed,0
+T25,gemini,P5 - P0,P5,P0,has_question,lower,exploratory,0,overall,-0.2537313432835821,-0.291044776119403,-0.21393034825870647,0.0,804,confirmed,0.0,confirmed,0
+T25,gemini,P5 - P0,P5,P0,has_question,lower,exploratory,0,Early,-0.1417910447761194,-0.20149253731343283,-0.07835820895522388,0.0,268,confirmed,0.0,confirmed,0
+T25,gemini,P5 - P0,P5,P0,has_question,lower,exploratory,0,Middle,-0.31716417910447764,-0.3917910447761194,-0.23880597014925373,0.0,268,confirmed,0.0,confirmed,0
+T25,gemini,P5 - P0,P5,P0,has_question,lower,exploratory,0,Late,-0.30223880597014924,-0.3656716417910448,-0.23507462686567165,0.0,268,confirmed,0.0,confirmed,0
+T25,gemini,P5 - P0,P5,P0,plan_statement_present,higher,exploratory,0,overall,0.2947761194029851,0.26243781094527363,0.3283582089552239,0.0,804,confirmed,0.0,confirmed,0
+T25,gemini,P5 - P0,P5,P0,plan_statement_present,higher,exploratory,0,Early,0.1044776119402985,0.06343283582089553,0.14925373134328357,0.0,268,confirmed,0.0,confirmed,0
+T25,gemini,P5 - P0,P5,P0,plan_statement_present,higher,exploratory,0,Middle,0.39925373134328357,0.33955223880597013,0.4626865671641791,0.0,268,confirmed,0.0,confirmed,0
+T25,gemini,P5 - P0,P5,P0,plan_statement_present,higher,exploratory,0,Late,0.3805970149253731,0.31343283582089554,0.44776119402985076,0.0,268,confirmed,0.0,confirmed,0
+T25,claude,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,overall,-0.03527433602291509,-0.22553131885479666,0.1532107981661923,0.681,804,not confirmed,1.0,not confirmed,0
+T25,claude,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,Early,-0.4233121385748344,-0.6768259340927238,-0.18515750364307884,0.001,268,confirmed,0.01,confirmed,0
+T25,claude,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,Middle,-0.17490737840685003,-0.4465617026951579,0.09846758715269291,0.216,268,not confirmed,0.6060000000000001,not confirmed,0
+T25,claude,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,Late,0.49239650891293907,0.0742611818311935,0.9109713025427058,0.021,268,opposite,0.126,opposite,0
+T25,claude,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,overall,1.4148190133624636,0.7965776430553811,2.017828404760497,0.0,804,confirmed,0.0,confirmed,0
+T25,claude,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,Early,0.8502034679855112,-0.3131788209193805,1.9410187654281998,0.145,268,not confirmed,0.29,not confirmed,0
+T25,claude,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,Middle,1.6040363910958022,0.5745558992973354,2.578141854190593,0.002,268,confirmed,0.014,confirmed,0
+T25,claude,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,Late,1.790217181006077,0.7765416667426841,2.6618525384986844,0.0,268,confirmed,0.0,confirmed,0
+T25,claude,P1 - P0,P1,P0,share_open,lower,pre-specified,1,overall,-0.0038071065989847717,-0.02035683911384003,0.0125,0.72,394,not confirmed,1.0,not confirmed,0
+T25,claude,P1 - P0,P1,P0,share_open,lower,pre-specified,1,Early,-0.0030864197530864196,-0.027777777777777776,0.021682098765431677,0.931,162,not confirmed,1.0,not confirmed,0
+T25,claude,P1 - P0,P1,P0,share_open,lower,pre-specified,1,Middle,0.007692307692307693,-0.023076923076923078,0.038461538461538464,0.769,130,not confirmed,1.0,not confirmed,0
+T25,claude,P1 - P0,P1,P0,share_open,lower,pre-specified,1,Late,-0.0196078431372549,-0.049019607843137254,0.0,0.266,102,not confirmed,1.0,not confirmed,0
+T25,claude,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,overall,0.04786356242002027,-0.1355033774589932,0.22775102182013102,0.582,804,not confirmed,1.0,not confirmed,0
+T25,claude,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,Early,0.3192803536163463,0.08385204664971847,0.5502081354981502,0.008,268,confirmed,0.056,confirmed,0
+T25,claude,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,Middle,0.0993411257807241,-0.14040690655948176,0.3207969309559196,0.38,268,not confirmed,0.6060000000000001,not confirmed,0
+T25,claude,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,Late,-0.27503079213700965,-0.690071427235715,0.13056645731946712,0.202,268,not confirmed,0.6060000000000001,not confirmed,0
+T25,claude,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,overall,0.5528283431058642,0.33714366830943504,0.7570300579332621,0.0,804,confirmed,0.0,confirmed,0
+T25,claude,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,Early,0.4855460112669908,0.16571087668493864,0.7992462575285061,0.002,268,confirmed,0.016,confirmed,0
+T25,claude,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,Middle,0.41153595776501073,0.06588296280860076,0.7501524757871498,0.021,268,confirmed,0.126,confirmed,0
+T25,claude,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,Late,0.7614030602855911,0.3544050415151723,1.157538340427163,0.001,268,confirmed,0.01,confirmed,0
+T25,claude,P3 - P0,P3,P0,share_open,higher,pre-specified,1,overall,0.06451612903225806,0.03225806451612903,0.1,0.0,186,confirmed,0.0,confirmed,0
+T25,claude,P3 - P0,P3,P0,share_open,higher,pre-specified,1,Early,0.07222222222222222,0.022222222222222223,0.12777777777777777,0.001,90,confirmed,0.011,confirmed,0
+T25,claude,P3 - P0,P3,P0,share_open,higher,pre-specified,1,Middle,0.0,-0.04054054054054054,0.04054054054054054,1.0,37,not confirmed,1.0,confirmed,1
+T25,claude,P3 - P0,P3,P0,share_open,higher,pre-specified,1,Late,0.09322033898305085,0.03389830508474576,0.1694915254237288,0.001,59,confirmed,0.011,confirmed,0
+T25,claude,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,overall,1.5425763516173208,1.2729190496542124,1.8172225809741411,0.0,804,confirmed,0.0,confirmed,0
+T25,claude,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,Early,2.029476493459538,1.552809794739861,2.4941851038550005,0.0,268,confirmed,0.0,confirmed,0
+T25,claude,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,Middle,1.4604411341275294,1.0570075405982189,1.8837937913421863,0.0,268,confirmed,0.0,confirmed,0
+T25,claude,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,Late,1.1378114272648951,0.6774707993335973,1.586929546336098,0.0,268,confirmed,0.0,confirmed,0
+T25,claude,P4 - P0,P4,P0,share_open,higher,pre-specified,1,overall,0.24537037037037038,0.16666666666666666,0.3304659922513989,0.0,108,confirmed,0.0,confirmed,0
+T25,claude,P4 - P0,P4,P0,share_open,higher,pre-specified,1,Early,0.35294117647058826,0.21568627450980393,0.49019607843137253,0.0,51,confirmed,0.0,confirmed,0
+T25,claude,P4 - P0,P4,P0,share_open,higher,pre-specified,1,Middle,0.1,-0.075,0.275,0.335,20,not confirmed,1.0,confirmed,1
+T25,claude,P4 - P0,P4,P0,share_open,higher,pre-specified,1,Late,0.17567567567567569,0.02702702702702703,0.32432432432432434,0.018,37,confirmed,0.16199999999999998,confirmed,0
+T25,claude,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,overall,-1.6339659821714485,-2.332973097115553,-0.918864113704804,0.0,804,confirmed,0.0,confirmed,0
+T25,claude,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,Early,-2.8630833467646846,-3.9845061007346314,-1.762954963921929,0.0,268,confirmed,0.0,confirmed,0
+T25,claude,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,Middle,-1.0621812076208472,-2.1549083819850376,0.1422852925701747,0.084,268,not confirmed,0.252,confirmed,1
+T25,claude,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,Late,-0.9766333921288135,-1.9746707521792946,0.007874911504664978,0.056,268,not confirmed,0.224,confirmed,1
+T25,claude,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,overall,0.9897480085114568,0.7472997871171813,1.2616000122439837,0.0,804,confirmed,0.0,confirmed,0
+T25,claude,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,Early,1.5439304821925472,1.1015480191853937,1.995124348431326,0.0,268,confirmed,0.0,confirmed,0
+T25,claude,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,Middle,1.0489051763625188,0.6815207336505099,1.4231493692891946,0.0,268,confirmed,0.0,confirmed,0
+T25,claude,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,Late,0.3764083669793043,-0.08670231121784304,0.8691275210111105,0.119,268,not confirmed,0.476,confirmed,1
+T25,claude,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,overall,0.5019789192176264,-0.10623673817643696,1.117961929095478,0.104,804,not confirmed,0.104,confirmed,1
+T25,claude,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,Early,-1.0158748620586608,-1.990670626720431,-0.07357180467928355,0.039,268,confirmed,0.195,confirmed,0
+T25,claude,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,Middle,0.8181720177776627,-0.3567372926923405,2.0257392496422755,0.169,268,not confirmed,0.29,confirmed,1
+T25,claude,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,Late,1.7036396019338775,0.6858406710714527,2.737808905592121,0.004,268,opposite,0.024,not confirmed,1
+T25,claude,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,overall,0.4739338971168952,0.37458130112250815,0.5808828317325234,0.0,804,confirmed,0.0,confirmed,0
+T25,claude,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,Early,0.43045408157348464,0.2738570767955097,0.5941380655000057,0.0,268,confirmed,0.0,confirmed,0
+T25,claude,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,Middle,0.4521206675651842,0.3002643034825871,0.6293687810945273,0.0,268,confirmed,0.0,confirmed,0
+T25,claude,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,Late,0.5392269422120168,0.37437810945273636,0.7039824913892079,0.0,268,confirmed,0.0,confirmed,0
+T25,claude,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,overall,0.0024875621890547263,-0.0037313432835820895,0.008706467661691543,0.555,804,not confirmed,0.555,not confirmed,0
+T25,claude,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,Early,0.0,0.0,0.0,1.0,268,not confirmed,1.0,not confirmed,0
+T25,claude,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,Middle,-0.0037313432835820895,-0.014925373134328358,0.007462686567164179,0.763,268,not confirmed,1.0,not confirmed,0
+T25,claude,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,Late,0.011194029850746268,0.0,0.026119402985074626,0.103,268,not confirmed,0.309,not confirmed,0
+T25,claude,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,overall,-0.00777363184079602,-0.02332089552238806,0.0,0.745,804,not confirmed,0.745,not confirmed,0
+T25,claude,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,Early,0.0,0.0,0.0,1.0,268,not confirmed,1.0,not confirmed,0
+T25,claude,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,Middle,0.0,0.0,0.0,1.0,268,not confirmed,1.0,not confirmed,0
+T25,claude,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,Late,-0.02332089552238806,-0.06996268656716417,0.0,0.745,268,not confirmed,1.0,not confirmed,0
+T25,claude,P5 - P0,P5,P0,share_open,lower,pre-specified,1,overall,0.003937007874015748,-0.013618677042801557,0.021653543307086614,0.748,254,not confirmed,1.0,not confirmed,0
+T25,claude,P5 - P0,P5,P0,share_open,lower,pre-specified,1,Early,0.0,-0.013888888888888888,0.013888888888888888,1.0,108,not confirmed,1.0,not confirmed,0
+T25,claude,P5 - P0,P5,P0,share_open,lower,pre-specified,1,Middle,0.018292682926829267,-0.024390243902439025,0.06707317073170732,0.486,82,not confirmed,1.0,not confirmed,0
+T25,claude,P5 - P0,P5,P0,share_open,lower,pre-specified,1,Late,-0.0078125,-0.046875,0.0234375,0.924,64,not confirmed,1.0,not confirmed,0
+T25,claude,P5 - P0,P5,P0,has_question,lower,exploratory,0,overall,-0.14303482587064675,-0.17786069651741293,-0.11069651741293532,0.0,804,confirmed,0.0,confirmed,0
+T25,claude,P5 - P0,P5,P0,has_question,lower,exploratory,0,Early,-0.17164179104477612,-0.23507462686567165,-0.11194029850746269,0.0,268,confirmed,0.0,confirmed,0
+T25,claude,P5 - P0,P5,P0,has_question,lower,exploratory,0,Middle,-0.09701492537313433,-0.16044776119402984,-0.041044776119402986,0.002,268,confirmed,0.002,confirmed,0
+T25,claude,P5 - P0,P5,P0,has_question,lower,exploratory,0,Late,-0.16044776119402984,-0.2126865671641791,-0.1044776119402985,0.0,268,confirmed,0.0,confirmed,0
+T25,claude,P5 - P0,P5,P0,plan_statement_present,higher,exploratory,0,overall,0.19651741293532338,0.16417910447761194,0.22885572139303484,0.0,804,confirmed,0.0,confirmed,0
+T25,claude,P5 - P0,P5,P0,plan_statement_present,higher,exploratory,0,Early,0.13432835820895522,0.08955223880597014,0.1828358208955224,0.0,268,confirmed,0.0,confirmed,0
+T25,claude,P5 - P0,P5,P0,plan_statement_present,higher,exploratory,0,Middle,0.1865671641791045,0.13432835820895522,0.23889925373134277,0.0,268,confirmed,0.0,confirmed,0
+T25,claude,P5 - P0,P5,P0,plan_statement_present,higher,exploratory,0,Late,0.26865671641791045,0.208955223880597,0.3358208955223881,0.0,268,confirmed,0.0,confirmed,0
+T25,gpt,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,overall,-0.029106746217827294,-0.13449039288493791,0.07555052812947251,0.58,804,not confirmed,0.58,confirmed,1
+T25,gpt,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,Early,-0.08373966374405356,-0.2617436054661691,0.07963209968258253,0.332,268,not confirmed,1.0,confirmed,1
+T25,gpt,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,Middle,0.013633510884100059,-0.15573692140610837,0.17937611370692674,0.878,268,not confirmed,1.0,not confirmed,0
+T25,gpt,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,Late,-0.017214085793528393,-0.2203454515822702,0.16815753048040893,0.87,268,not confirmed,1.0,confirmed,1
+T25,gpt,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,overall,3.6318941639283495,2.9265412637345705,4.357706742527775,0.0,804,confirmed,0.0,confirmed,0
+T25,gpt,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,Early,1.0371998610931654,-0.15792610843901728,2.2355894355337744,0.089,268,not confirmed,0.267,confirmed,1
+T25,gpt,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,Middle,5.023322920903349,3.857448347603167,6.18343326618307,0.0,268,confirmed,0.0,confirmed,0
+T25,gpt,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,Late,4.835159709788534,3.7281124909141528,5.992201387408409,0.0,268,confirmed,0.0,confirmed,0
+T25,gpt,P1 - P0,P1,P0,share_open,lower,pre-specified,1,overall,0.031746031746031744,-0.03526496763754045,0.10667295597484272,0.374,105,not confirmed,0.748,confirmed,1
+T25,gpt,P1 - P0,P1,P0,share_open,lower,pre-specified,1,Early,0.08874458874458874,0.006493506493506494,0.17104978354978323,0.043,77,opposite,0.301,confirmed,1
+T25,gpt,P1 - P0,P1,P0,share_open,lower,pre-specified,1,Middle,-0.05,-0.3,0.15,0.887,10,not confirmed,1.0,confirmed,1
+T25,gpt,P1 - P0,P1,P0,share_open,lower,pre-specified,1,Late,-0.16666666666666666,-0.3055555555555556,-0.05555555555555555,0.002,18,confirmed,0.018000000000000002,confirmed,0
+T25,gpt,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,overall,0.17956738891040494,0.07654931263665152,0.285713426908925,0.001,804,confirmed,0.002,confirmed,0
+T25,gpt,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,Early,0.134902411021814,-0.022095968123184973,0.29909586681974737,0.103,268,not confirmed,0.515,confirmed,1
+T25,gpt,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,Middle,0.0602583242017649,-0.09273931977437477,0.21710338540783353,0.459,268,not confirmed,1.0,not confirmed,0
+T25,gpt,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,Late,0.34354143150763594,0.1140264414414616,0.5765010213156706,0.0,268,confirmed,0.0,confirmed,0
+T25,gpt,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,overall,1.2405440744992984,1.0149694078954028,1.4752443204713104,0.0,804,confirmed,0.0,confirmed,0
+T25,gpt,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,Early,1.2381688930196393,0.8639319048833974,1.63024142109963,0.0,268,confirmed,0.0,confirmed,0
+T25,gpt,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,Middle,1.0899227914153289,0.7505427684532162,1.488057575371008,0.0,268,confirmed,0.0,confirmed,0
+T25,gpt,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,Late,1.3935405390629272,0.9975941036575365,1.8119772019025746,0.0,268,confirmed,0.0,confirmed,0
+T25,gpt,P3 - P0,P3,P0,share_open,higher,pre-specified,1,overall,0.21875,0.0,0.40625,0.081,16,not confirmed,0.243,confirmed,1
+T25,gpt,P3 - P0,P3,P0,share_open,higher,pre-specified,1,Early,0.1111111111111111,-0.2222222222222222,0.4444444444444444,0.616,9,not confirmed,1.0,confirmed,1
+T25,gpt,P3 - P0,P3,P0,share_open,higher,pre-specified,1,Middle,0.5,0.5,0.5,0.0,2,confirmed,0.0,confirmed,0
+T25,gpt,P3 - P0,P3,P0,share_open,higher,pre-specified,1,Late,0.3,0.1,0.5,0.019,5,confirmed,0.152,confirmed,0
+T25,gpt,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,overall,3.157806055194115,2.8602496522272642,3.4618896639108083,0.0,804,confirmed,0.0,confirmed,0
+T25,gpt,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,Early,4.177319294856609,3.6439910110619067,4.681911261762008,0.0,268,confirmed,0.0,confirmed,0
+T25,gpt,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,Middle,2.6770512516781175,2.216572889520651,3.1675234936428964,0.0,268,confirmed,0.0,confirmed,0
+T25,gpt,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,Late,2.619047619047619,2.114410092395167,3.129477611940298,0.0,268,confirmed,0.0,confirmed,0
+T25,gpt,P4 - P0,P4,P0,share_open,higher,pre-specified,1,overall,0.875,0.5714285714285714,1.0,0.0,8,confirmed,0.0,confirmed,0
+T25,gpt,P4 - P0,P4,P0,share_open,higher,pre-specified,1,Early,1.0,1.0,1.0,0.0,5,confirmed,0.0,confirmed,0
+T25,gpt,P4 - P0,P4,P0,share_open,higher,pre-specified,1,Middle,,,,,0,not confirmed,,confirmed,1
+T25,gpt,P4 - P0,P4,P0,share_open,higher,pre-specified,1,Late,0.6666666666666666,0.0,1.0,0.082,3,not confirmed,0.492,confirmed,1
+T25,gpt,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,overall,-2.3093731618738085,-3.000673022967973,-1.650216506005492,0.0,804,confirmed,0.0,confirmed,0
+T25,gpt,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,Early,-4.806421642296657,-5.918863424931191,-3.691003923258946,0.0,268,confirmed,0.0,confirmed,0
+T25,gpt,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,Middle,-0.9189537714648816,-2.007062816549348,0.19068519360337838,0.106,268,not confirmed,0.267,confirmed,1
+T25,gpt,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,Late,-1.2027440718598856,-2.3297883841309774,-0.020538480240682434,0.042,268,confirmed,0.168,confirmed,0
+T25,gpt,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,overall,1.9172619806948166,1.6128506328755086,2.2294237501948944,0.0,804,confirmed,0.0,confirmed,0
+T25,gpt,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,Early,2.9391504018369687,2.358180252583238,3.5212686567164178,0.0,268,confirmed,0.0,confirmed,0
+T25,gpt,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,Middle,1.5871284602627886,1.070144469957903,2.081316175532593,0.0,268,confirmed,0.0,confirmed,0
+T25,gpt,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,Late,1.225507079984692,0.748564867967853,1.7186184462303866,0.0,268,confirmed,0.0,confirmed,0
+T25,gpt,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,overall,-1.1777033294673926,-1.8130554803669137,-0.5397566667694865,0.001,804,confirmed,0.001,confirmed,0
+T25,gpt,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,Early,-1.2190755623591443,-2.299406812093379,-0.23153250839818004,0.018,268,confirmed,0.09,confirmed,0
+T25,gpt,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,Middle,-0.8125611259939618,-1.8521266530594889,0.18206988561466173,0.102,268,not confirmed,0.267,confirmed,1
+T25,gpt,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,Late,-1.5014733000490712,-2.5560449822242624,-0.4775513689449448,0.006,268,confirmed,0.036000000000000004,confirmed,0
+T25,gpt,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,overall,0.32819697807259995,0.24378109452736318,0.41240671641791044,0.0,804,confirmed,0.0,confirmed,0
+T25,gpt,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,Early,0.6125621890547265,0.43283582089552236,0.8059701492537313,0.0,268,confirmed,0.0,confirmed,0
+T25,gpt,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,Middle,0.2526257600884466,0.13432835820895522,0.3836650082918738,0.0,268,confirmed,0.0,confirmed,0
+T25,gpt,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,Late,0.11940298507462686,0.04477611940298507,0.208955223880597,0.001,268,confirmed,0.001,confirmed,0
+T25,gpt,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,overall,0.0,0.0,0.0,1.0,804,not confirmed,1.0,not confirmed,0
+T25,gpt,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,Early,0.0,0.0,0.0,1.0,268,not confirmed,1.0,not confirmed,0
+T25,gpt,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,Middle,0.0,0.0,0.0,1.0,268,not confirmed,1.0,not confirmed,0
+T25,gpt,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,Late,0.0,0.0,0.0,1.0,268,not confirmed,1.0,not confirmed,0
+T25,gpt,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,overall,-0.004975124378109453,-0.014925373134328358,0.0,0.742,804,not confirmed,0.742,confirmed,1
+T25,gpt,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,Early,-0.014925373134328358,-0.04477611940298507,0.0,0.742,268,not confirmed,1.0,confirmed,1
+T25,gpt,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,Middle,0.0,0.0,0.0,1.0,268,not confirmed,1.0,not confirmed,0
+T25,gpt,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,Late,0.0,0.0,0.0,1.0,268,not confirmed,1.0,not confirmed,0
+T25,gpt,P5 - P0,P5,P0,share_open,lower,pre-specified,1,overall,0.0,-0.09375,0.09,1.0,49,not confirmed,1.0,confirmed,1
+T25,gpt,P5 - P0,P5,P0,share_open,lower,pre-specified,1,Early,-0.013888888888888888,-0.125,0.08333333333333333,0.967,36,not confirmed,1.0,confirmed,1
+T25,gpt,P5 - P0,P5,P0,share_open,lower,pre-specified,1,Middle,0.2,0.0,0.6,0.673,5,not confirmed,1.0,confirmed,1
+T25,gpt,P5 - P0,P5,P0,share_open,lower,pre-specified,1,Late,-0.0625,-0.1875,0.0,0.692,8,not confirmed,1.0,confirmed,1
+T25,gpt,P5 - P0,P5,P0,has_question,lower,pre-specified,0,overall,-0.048507462686567165,-0.07462686567164178,-0.022388059701492536,0.0,804,confirmed,0.0,confirmed,0
+T25,gpt,P5 - P0,P5,P0,has_question,lower,pre-specified,0,Early,-0.08955223880597014,-0.15298507462686567,-0.026119402985074626,0.005,268,confirmed,0.01,confirmed,0
+T25,gpt,P5 - P0,P5,P0,has_question,lower,pre-specified,0,Middle,-0.0037313432835820895,-0.033582089552238806,0.026119402985074626,0.926,268,not confirmed,0.926,confirmed,1
+T25,gpt,P5 - P0,P5,P0,has_question,lower,pre-specified,0,Late,-0.05223880597014925,-0.08582089552238806,-0.022388059701492536,0.0,268,confirmed,0.0,confirmed,0
+T25,gpt,P5 - P0,P5,P0,plan_statement_present,higher,pre-specified,0,overall,0.16044776119402984,0.12935323383084577,0.19154228855721392,0.0,804,confirmed,0.0,confirmed,0
+T25,gpt,P5 - P0,P5,P0,plan_statement_present,higher,pre-specified,0,Early,0.11567164179104478,0.0708955223880597,0.16417910447761194,0.0,268,confirmed,0.0,confirmed,0
+T25,gpt,P5 - P0,P5,P0,plan_statement_present,higher,pre-specified,0,Middle,0.14925373134328357,0.09701492537313433,0.20149253731343283,0.0,268,confirmed,0.0,confirmed,0
+T25,gpt,P5 - P0,P5,P0,plan_statement_present,higher,pre-specified,0,Late,0.21641791044776118,0.16417910447761194,0.27238805970149255,0.0,268,confirmed,0.0,confirmed,0
+T1S,gemini,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,overall,-0.19418050744941595,-0.3639055751620326,-0.02668304790745024,0.022,804,confirmed,0.044,confirmed,0
+T1S,gemini,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,Early,-0.25231626444313016,-0.5230520541854499,0.0215202845799858,0.083,268,not confirmed,0.664,confirmed,1
+T1S,gemini,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,Middle,-0.16995850733222523,-0.48320579259394925,0.1407301299416808,0.284,268,not confirmed,1.0,confirmed,1
+T1S,gemini,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,Late,-0.1602667505728925,-0.43334582403673094,0.1059990261637277,0.251,268,not confirmed,1.0,confirmed,1
+T1S,gemini,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,overall,-0.22440341420069926,-3.31308682423274,2.798058601763758,0.888,804,not confirmed,0.888,confirmed,1
+T1S,gemini,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,Early,-3.400671646393756,-8.086661200468287,1.3996362678348286,0.155,268,not confirmed,0.46499999999999997,not confirmed,0
+T1S,gemini,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,Middle,-0.4226667711617124,-5.809830862997356,5.074410512494814,0.848,268,not confirmed,0.848,not confirmed,0
+T1S,gemini,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,Late,3.150128174953372,-2.2537988171369103,8.500046815816804,0.27,268,not confirmed,0.54,not confirmed,0
+T1S,gemini,P1 - P0,P1,P0,share_open,lower,pre-specified,1,overall,-0.019867549668874173,-0.08975806451612903,0.04606025618682463,0.617,151,not confirmed,0.617,not confirmed,0
+T1S,gemini,P1 - P0,P1,P0,share_open,lower,pre-specified,1,Early,0.011904761904761904,-0.08333333333333333,0.10714285714285714,0.904,84,not confirmed,1.0,not confirmed,0
+T1S,gemini,P1 - P0,P1,P0,share_open,lower,pre-specified,1,Middle,-0.02564102564102564,-0.1282051282051282,0.07692307692307693,0.854,39,not confirmed,1.0,not confirmed,0
+T1S,gemini,P1 - P0,P1,P0,share_open,lower,pre-specified,1,Late,-0.10714285714285714,-0.25,0.03571428571428571,0.252,28,not confirmed,1.0,not confirmed,0
+T1S,gemini,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,overall,0.0934342361841275,-0.04020292661440769,0.2196417688953329,0.151,804,not confirmed,0.151,confirmed,1
+T1S,gemini,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,Early,-0.0024431414356787438,-0.22236473880597019,0.20991582267235237,0.975,268,not confirmed,1.0,not confirmed,0
+T1S,gemini,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,Middle,0.13392719251383253,-0.07320122788417746,0.377430857603546,0.235,268,not confirmed,1.0,not confirmed,0
+T1S,gemini,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,Late,0.1488186574742287,-0.10459393719762274,0.4154348241511131,0.274,268,not confirmed,1.0,confirmed,1
+T1S,gemini,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,overall,0.4001856256480504,0.1800141416697859,0.6370173412610868,0.001,804,confirmed,0.003,confirmed,0
+T1S,gemini,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,Early,0.2984578395242759,-0.03894358362114875,0.6676743351387976,0.091,268,not confirmed,0.664,confirmed,1
+T1S,gemini,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,Middle,0.4293865054722687,0.012034362176561076,0.869690638029319,0.043,268,confirmed,0.42999999999999994,confirmed,0
+T1S,gemini,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,Late,0.47271253194760665,0.07658321225252196,0.9100388871844094,0.025,268,confirmed,0.275,confirmed,0
+T1S,gemini,P3 - P0,P3,P0,share_open,higher,pre-specified,1,overall,0.1839080459770115,0.07317073170731707,0.28918577535950235,0.0,87,confirmed,0.0,confirmed,0
+T1S,gemini,P3 - P0,P3,P0,share_open,higher,pre-specified,1,Early,0.14035087719298245,0.0,0.2807017543859649,0.052,57,not confirmed,0.46799999999999997,confirmed,1
+T1S,gemini,P3 - P0,P3,P0,share_open,higher,pre-specified,1,Middle,0.375,0.125,0.625,0.002,16,confirmed,0.02,confirmed,0
+T1S,gemini,P3 - P0,P3,P0,share_open,higher,pre-specified,1,Late,0.14285714285714285,-0.07142857142857142,0.42857142857142855,0.43,14,not confirmed,1.0,confirmed,1
+T1S,gemini,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,overall,1.3759363940787983,1.044728166305059,1.6964719052108002,0.0,804,confirmed,0.0,confirmed,0
+T1S,gemini,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,Early,2.280407984576339,1.6580799131195605,2.96898570294695,0.0,268,confirmed,0.0,confirmed,0
+T1S,gemini,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,Middle,0.839757328733071,0.3692963382341436,1.3168166410366953,0.0,268,confirmed,0.0,confirmed,0
+T1S,gemini,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,Late,1.0076438689269855,0.5948836423996432,1.4268015121069373,0.0,268,confirmed,0.0,confirmed,0
+T1S,gemini,P4 - P0,P4,P0,share_open,higher,pre-specified,1,overall,0.37037037037037035,0.24992283950617283,0.48148148148148145,0.0,81,confirmed,0.0,confirmed,0
+T1S,gemini,P4 - P0,P4,P0,share_open,higher,pre-specified,1,Early,0.3333333333333333,0.19298245614035087,0.47368421052631576,0.0,57,confirmed,0.0,confirmed,0
+T1S,gemini,P4 - P0,P4,P0,share_open,higher,pre-specified,1,Middle,0.5833333333333334,0.3333333333333333,0.8333333333333334,0.0,12,confirmed,0.0,confirmed,0
+T1S,gemini,P4 - P0,P4,P0,share_open,higher,pre-specified,1,Late,0.3333333333333333,0.0,0.6666666666666666,0.108,12,not confirmed,0.776,confirmed,1
+T1S,gemini,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,overall,-30.477066796252668,-33.56956160873285,-27.401898653378638,0.0,804,confirmed,0.0,confirmed,0
+T1S,gemini,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,Early,-23.484040278186544,-28.32937848478551,-18.760359319607993,0.0,268,confirmed,0.0,confirmed,0
+T1S,gemini,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,Middle,-36.0221288249261,-40.876227117423745,-30.959926075655464,0.0,268,confirmed,0.0,confirmed,0
+T1S,gemini,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,Late,-31.925031285645368,-36.726548480820036,-26.89967363633664,0.0,268,confirmed,0.0,confirmed,0
+T1S,gemini,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,overall,0.9757507684307479,0.6154928984221009,1.3038579022044046,0.0,804,confirmed,0.0,confirmed,0
+T1S,gemini,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,Early,1.9819501450520627,1.31872687787388,2.671598418518246,0.0,268,confirmed,0.0,confirmed,0
+T1S,gemini,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,Middle,0.4103708232608024,-0.1113295294068286,0.9250301409027574,0.111,268,not confirmed,0.666,confirmed,1
+T1S,gemini,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,Late,0.5349313369793789,0.00466539908004866,1.0158231583170119,0.049,268,confirmed,0.441,confirmed,0
+T1S,gemini,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,overall,-11.05739268875029,-13.312842761044145,-8.819855108511867,0.0,804,confirmed,0.0,confirmed,0
+T1S,gemini,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,Early,-10.56583109354997,-14.147680287287308,-7.012810471111274,0.0,268,confirmed,0.0,confirmed,0
+T1S,gemini,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,Middle,-12.087546042951871,-16.01883950168435,-7.718079060011758,0.0,268,confirmed,0.0,confirmed,0
+T1S,gemini,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,Late,-10.518800929749032,-14.426060102690476,-6.727791754551641,0.0,268,confirmed,0.0,confirmed,0
+T1S,gemini,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,overall,0.09056138720317825,0.03157290470723307,0.1609534743863102,0.001,804,confirmed,0.001,confirmed,0
+T1S,gemini,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,Early,0.17173746651358593,0.03731343283582089,0.33964791427477997,0.015,268,confirmed,0.045,confirmed,0
+T1S,gemini,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,Middle,0.0,0.0,0.0,1.0,268,not confirmed,1.0,confirmed,1
+T1S,gemini,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,Late,0.09994669509594882,0.0,0.2531982942430704,0.282,268,not confirmed,0.564,confirmed,1
+T1S,gemini,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,overall,-0.0012437810945273632,-0.0037313432835820895,0.0,0.772,804,not confirmed,0.772,not confirmed,0
+T1S,gemini,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,Early,0.0,0.0,0.0,1.0,268,not confirmed,1.0,not confirmed,0
+T1S,gemini,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,Middle,0.0,0.0,0.0,1.0,268,not confirmed,1.0,not confirmed,0
+T1S,gemini,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,Late,-0.0037313432835820895,-0.011194029850746268,0.0,0.772,268,not confirmed,1.0,not confirmed,0
+T1S,gemini,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,overall,0.029367053620784962,0.0,0.07428137092316198,0.261,804,not confirmed,0.261,not confirmed,0
+T1S,gemini,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,Early,0.0881011608623549,0.0,0.22284411276948593,0.261,268,not confirmed,0.783,not confirmed,0
+T1S,gemini,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,Middle,0.0,0.0,0.0,1.0,268,not confirmed,1.0,not confirmed,0
+T1S,gemini,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,Late,0.0,0.0,0.0,1.0,268,not confirmed,1.0,not confirmed,0
+T1S,gemini,P5 - P0,P5,P0,share_open,lower,pre-specified,1,overall,-0.08333333333333333,-0.18309859154929578,0.014084507042253521,0.133,72,not confirmed,0.266,not confirmed,0
+T1S,gemini,P5 - P0,P5,P0,share_open,lower,pre-specified,1,Early,-0.1111111111111111,-0.24074074074074073,0.018518518518518517,0.097,54,not confirmed,0.776,not confirmed,0
+T1S,gemini,P5 - P0,P5,P0,share_open,lower,pre-specified,1,Middle,-0.1111111111111111,-0.3333333333333333,0.0,0.711,9,not confirmed,1.0,not confirmed,0
+T1S,gemini,P5 - P0,P5,P0,share_open,lower,pre-specified,1,Late,0.1111111111111111,0.0,0.3333333333333333,0.721,9,not confirmed,1.0,not confirmed,0
+T1S,gemini,P5 - P0,P5,P0,has_question,lower,exploratory,0,overall,-0.17537313432835822,-0.2126865671641791,-0.13681592039800994,0.0,804,confirmed,0.0,confirmed,0
+T1S,gemini,P5 - P0,P5,P0,has_question,lower,exploratory,0,Early,-0.1455223880597015,-0.21641791044776118,-0.07462686567164178,0.0,268,confirmed,0.0,confirmed,0
+T1S,gemini,P5 - P0,P5,P0,has_question,lower,exploratory,0,Middle,-0.22014925373134328,-0.2798507462686567,-0.16044776119402984,0.0,268,confirmed,0.0,confirmed,0
+T1S,gemini,P5 - P0,P5,P0,has_question,lower,exploratory,0,Late,-0.16044776119402984,-0.208955223880597,-0.10820895522388059,0.0,268,confirmed,0.0,confirmed,0
+T1S,gemini,P5 - P0,P5,P0,plan_statement_present,higher,exploratory,0,overall,0.07462686567164178,0.055970149253731345,0.0945273631840796,0.0,804,confirmed,0.0,confirmed,0
+T1S,gemini,P5 - P0,P5,P0,plan_statement_present,higher,exploratory,0,Early,0.041044776119402986,0.018656716417910446,0.06716417910447761,0.0,268,confirmed,0.0,confirmed,0
+T1S,gemini,P5 - P0,P5,P0,plan_statement_present,higher,exploratory,0,Middle,0.1044776119402985,0.06716417910447761,0.1455223880597015,0.0,268,confirmed,0.0,confirmed,0
+T1S,gemini,P5 - P0,P5,P0,plan_statement_present,higher,exploratory,0,Late,0.07835820895522388,0.04477611940298507,0.11194029850746269,0.0,268,confirmed,0.0,confirmed,0
+T1S,claude,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,overall,0.08435451812180562,-0.08970293658823696,0.25354156444240455,0.355,804,not confirmed,0.71,not confirmed,0
+T1S,claude,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,Early,-0.2812335176590778,-0.5211291270297732,-0.052944055674880815,0.015,268,confirmed,0.075,confirmed,0
+T1S,claude,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,Middle,-0.051675394467899934,-0.31311233283204043,0.21875118361661713,0.717,268,not confirmed,1.0,not confirmed,0
+T1S,claude,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,Late,0.5859724664923944,0.20569648095609966,0.9795173425993782,0.0,268,opposite,0.0,opposite,0
+T1S,claude,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,overall,0.32478239350511756,-1.5066146479050073,2.1982125204758436,0.763,804,not confirmed,0.763,confirmed,1
+T1S,claude,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,Early,-0.7670470694912329,-3.0814530419086266,1.6689285339652122,0.527,268,not confirmed,1.0,not confirmed,0
+T1S,claude,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,Middle,2.6105992843396413,-0.8034858066680547,6.178834788697343,0.149,268,not confirmed,0.745,confirmed,1
+T1S,claude,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,Late,-0.8692050343330548,-4.001779469088052,2.26663671157642,0.589,268,not confirmed,1.0,confirmed,1
+T1S,claude,P1 - P0,P1,P0,share_open,lower,pre-specified,1,overall,-0.0056179775280898875,-0.024793388429752067,0.013664975998550835,0.659,356,not confirmed,1.0,not confirmed,0
+T1S,claude,P1 - P0,P1,P0,share_open,lower,pre-specified,1,Early,0.0,-0.03164556962025317,0.03164556962025317,1.0,158,not confirmed,1.0,not confirmed,0
+T1S,claude,P1 - P0,P1,P0,share_open,lower,pre-specified,1,Middle,0.0,-0.03773584905660377,0.03773584905660377,1.0,106,not confirmed,1.0,not confirmed,0
+T1S,claude,P1 - P0,P1,P0,share_open,lower,pre-specified,1,Late,-0.021739130434782608,-0.05434782608695652,0.0,0.262,92,not confirmed,1.0,not confirmed,0
+T1S,claude,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,overall,-0.030533134795619598,-0.20917697179604833,0.15052522553541237,0.744,804,not confirmed,0.744,not confirmed,0
+T1S,claude,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,Early,0.19911924709618192,-0.03371365029951894,0.4361533814974531,0.089,268,not confirmed,0.356,confirmed,1
+T1S,claude,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,Middle,0.03933383355654804,-0.1700450393583483,0.25195330102482044,0.722,268,not confirmed,1.0,not confirmed,0
+T1S,claude,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,Late,-0.3300524850395888,-0.7545894017016679,0.08132842801946154,0.133,268,not confirmed,0.399,not confirmed,0
+T1S,claude,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,overall,0.5435336400353382,0.32014347361235035,0.7578001696880888,0.0,804,confirmed,0.0,confirmed,0
+T1S,claude,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,Early,0.5157577741650409,0.15579437419786663,0.9067298252446682,0.004,268,confirmed,0.032,confirmed,0
+T1S,claude,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,Middle,0.43437208062285587,0.06442282573322332,0.8225848323168103,0.012,268,confirmed,0.07200000000000001,confirmed,0
+T1S,claude,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,Late,0.6804710653181177,0.2937108794618571,1.0940617256333791,0.001,268,confirmed,0.009000000000000001,confirmed,0
+T1S,claude,P3 - P0,P3,P0,share_open,higher,pre-specified,1,overall,0.06707317073170732,0.031055900621118012,0.10759493670886076,0.0,164,confirmed,0.0,confirmed,0
+T1S,claude,P3 - P0,P3,P0,share_open,higher,pre-specified,1,Early,0.07865168539325842,0.02247191011235955,0.1348314606741573,0.003,89,confirmed,0.033,confirmed,0
+T1S,claude,P3 - P0,P3,P0,share_open,higher,pre-specified,1,Middle,0.038461538461538464,0.0,0.11538461538461539,0.717,26,not confirmed,1.0,confirmed,1
+T1S,claude,P3 - P0,P3,P0,share_open,higher,pre-specified,1,Late,0.061224489795918366,0.0,0.1229591836734666,0.103,49,not confirmed,0.9269999999999999,confirmed,1
+T1S,claude,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,overall,1.4150318439241283,1.1180865170256102,1.7143780557102455,0.0,804,confirmed,0.0,confirmed,0
+T1S,claude,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,Early,1.7170624399693752,1.193635530040676,2.2949386324508674,0.0,268,confirmed,0.0,confirmed,0
+T1S,claude,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,Middle,1.2087753100922032,0.8175701842297598,1.6280587044733599,0.0,268,confirmed,0.0,confirmed,0
+T1S,claude,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,Late,1.3192577817108067,0.8449828846400034,1.810567264973086,0.0,268,confirmed,0.0,confirmed,0
+T1S,claude,P4 - P0,P4,P0,share_open,higher,pre-specified,1,overall,0.22916666666666666,0.1368421052631579,0.3229166666666667,0.0,96,confirmed,0.0,confirmed,0
+T1S,claude,P4 - P0,P4,P0,share_open,higher,pre-specified,1,Early,0.28888888888888886,0.13333333333333333,0.4444444444444444,0.001,45,confirmed,0.012,confirmed,0
+T1S,claude,P4 - P0,P4,P0,share_open,higher,pre-specified,1,Middle,0.1875,-0.0625,0.4375,0.222,16,not confirmed,1.0,confirmed,1
+T1S,claude,P4 - P0,P4,P0,share_open,higher,pre-specified,1,Late,0.17142857142857143,0.02857142857142857,0.34285714285714286,0.027,35,confirmed,0.27,confirmed,0
+T1S,claude,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,overall,-4.68089962280322,-6.331986588322662,-3.101653500156461,0.0,804,confirmed,0.0,confirmed,0
+T1S,claude,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,Early,-3.6266194868859887,-5.951481859333049,-1.2936841613463004,0.001,268,confirmed,0.008,confirmed,0
+T1S,claude,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,Middle,-5.092895700704835,-7.696231301371715,-2.574739441293675,0.0,268,confirmed,0.0,confirmed,0
+T1S,claude,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,Late,-5.323183680818839,-8.511841820845913,-2.349776262232419,0.001,268,confirmed,0.008,confirmed,0
+T1S,claude,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,overall,0.8714982038887902,0.5880111183959995,1.1600639437719695,0.0,804,confirmed,0.0,confirmed,0
+T1S,claude,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,Early,1.2013046658043345,0.7074173071864793,1.6979616847137573,0.0,268,confirmed,0.0,confirmed,0
+T1S,claude,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,Middle,0.7744032294693473,0.3291594905414124,1.2006345564337708,0.0,268,confirmed,0.0,confirmed,0
+T1S,claude,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,Late,0.6387867163926888,0.14788341245279996,1.1582991341381077,0.009,268,confirmed,0.063,confirmed,0
+T1S,claude,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,overall,-1.4125692073043454,-2.767684506314096,-0.0717410813137593,0.038,804,confirmed,0.076,confirmed,0
+T1S,claude,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,Early,-1.1645096445953074,-3.24484653028216,0.8410224886768563,0.268,268,not confirmed,1.0,confirmed,1
+T1S,claude,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,Middle,-3.079813825551492,-5.7343880177251165,-0.5767220504551451,0.016,268,confirmed,0.096,confirmed,0
+T1S,claude,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,Late,0.006615848233763094,-2.480127196512097,2.450600617278653,0.965,268,not confirmed,1.0,not confirmed,0
+T1S,claude,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,overall,0.11189446777248718,0.05382099915915195,0.17487241782710075,0.0,804,confirmed,0.0,confirmed,0
+T1S,claude,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,Early,0.2266295334919605,0.08637201426988902,0.39495390922528306,0.002,268,confirmed,0.006,confirmed,0
+T1S,claude,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,Middle,0.050997378090627016,-0.013819789939192924,0.1276126569594407,0.134,268,not confirmed,0.134,confirmed,1
+T1S,claude,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,Late,0.058056491734874024,0.01203659123736158,0.11821938693628621,0.033,268,confirmed,0.066,confirmed,0
+T1S,claude,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,overall,0.0024875621890547263,-0.0025186567164179087,0.008706467661691543,0.555,804,not confirmed,0.555,not confirmed,0
+T1S,claude,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,Early,0.0,0.0,0.0,1.0,268,not confirmed,1.0,not confirmed,0
+T1S,claude,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,Middle,0.0,-0.011194029850746268,0.011194029850746268,1.0,268,not confirmed,1.0,not confirmed,0
+T1S,claude,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,Late,0.007462686567164179,-0.0037313432835820895,0.022388059701492536,0.453,268,not confirmed,1.0,not confirmed,0
+T1S,claude,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,overall,-0.00777363184079602,-0.02332089552238806,0.0,0.745,804,not confirmed,0.745,not confirmed,0
+T1S,claude,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,Early,0.0,0.0,0.0,1.0,268,not confirmed,1.0,not confirmed,0
+T1S,claude,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,Middle,0.0,0.0,0.0,1.0,268,not confirmed,1.0,not confirmed,0
+T1S,claude,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,Late,-0.02332089552238806,-0.06996268656716417,0.0,0.745,268,not confirmed,1.0,not confirmed,0
+T1S,claude,P5 - P0,P5,P0,share_open,lower,pre-specified,1,overall,0.0,-0.022737794612794612,0.024633590206311257,1.0,204,not confirmed,1.0,not confirmed,0
+T1S,claude,P5 - P0,P5,P0,share_open,lower,pre-specified,1,Early,-0.011235955056179775,-0.033707865168539325,0.0,0.743,89,not confirmed,1.0,not confirmed,0
+T1S,claude,P5 - P0,P5,P0,share_open,lower,pre-specified,1,Middle,0.017543859649122806,-0.03508771929824561,0.08771929824561403,0.797,57,not confirmed,1.0,not confirmed,0
+T1S,claude,P5 - P0,P5,P0,share_open,lower,pre-specified,1,Late,0.0,-0.05172413793103448,0.05172413793103448,1.0,58,not confirmed,1.0,not confirmed,0
+T1S,claude,P5 - P0,P5,P0,has_question,lower,exploratory,0,overall,-0.21890547263681592,-0.25497512437810943,-0.18407960199004975,0.0,804,confirmed,0.0,confirmed,0
+T1S,claude,P5 - P0,P5,P0,has_question,lower,exploratory,0,Early,-0.26865671641791045,-0.332089552238806,-0.20522388059701493,0.0,268,confirmed,0.0,confirmed,0
+T1S,claude,P5 - P0,P5,P0,has_question,lower,exploratory,0,Middle,-0.23880597014925373,-0.30597014925373134,-0.1791044776119403,0.0,268,confirmed,0.0,confirmed,0
+T1S,claude,P5 - P0,P5,P0,has_question,lower,exploratory,0,Late,-0.14925373134328357,-0.20149253731343283,-0.09701492537313433,0.0,268,confirmed,0.0,confirmed,0
+T1S,claude,P5 - P0,P5,P0,plan_statement_present,higher,exploratory,0,overall,0.10696517412935323,0.0845771144278607,0.13059701492537312,0.0,804,confirmed,0.0,confirmed,0
+T1S,claude,P5 - P0,P5,P0,plan_statement_present,higher,exploratory,0,Early,0.03731343283582089,0.014925373134328358,0.06343283582089553,0.0,268,confirmed,0.0,confirmed,0
+T1S,claude,P5 - P0,P5,P0,plan_statement_present,higher,exploratory,0,Middle,0.12686567164179105,0.08208955223880597,0.17164179104477612,0.0,268,confirmed,0.0,confirmed,0
+T1S,claude,P5 - P0,P5,P0,plan_statement_present,higher,exploratory,0,Late,0.15671641791044777,0.11567164179104478,0.20522388059701493,0.0,268,confirmed,0.0,confirmed,0
+T1S,gpt,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,overall,-0.01893119916110474,-0.16785598487747694,0.10973612080411789,0.808,804,not confirmed,0.808,confirmed,1
+T1S,gpt,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,Early,-0.07527244019017887,-0.22887245848271923,0.05711402699106437,0.303,268,not confirmed,0.909,confirmed,1
+T1S,gpt,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,Middle,0.10224397449456367,-0.05809956264713726,0.2625510413584842,0.213,268,not confirmed,0.852,not confirmed,0
+T1S,gpt,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,Late,-0.083765131787699,-0.45732042257146804,0.19852529381083317,0.671,268,not confirmed,0.909,confirmed,1
+T1S,gpt,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,overall,1.9131993562350087,0.6091940480150759,3.3036554538174454,0.004,804,confirmed,0.008,confirmed,0
+T1S,gpt,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,Early,0.2402576831046906,-2.0103813655487754,2.646581719529293,0.82,268,not confirmed,1.0,confirmed,1
+T1S,gpt,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,Middle,3.519332009928352,1.037878350721727,5.998405922622913,0.006,268,confirmed,0.036000000000000004,confirmed,0
+T1S,gpt,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,Late,1.980008375671984,-0.2549038088035223,4.372463819976425,0.079,268,not confirmed,0.395,confirmed,1
+T1S,gpt,P1 - P0,P1,P0,share_open,lower,pre-specified,1,overall,0.04081632653061224,-0.04257631822386679,0.14285714285714285,0.511,49,not confirmed,1.0,confirmed,1
+T1S,gpt,P1 - P0,P1,P0,share_open,lower,pre-specified,1,Early,0.0967741935483871,0.0,0.22580645161290322,0.08,31,not confirmed,0.64,confirmed,1
+T1S,gpt,P1 - P0,P1,P0,share_open,lower,pre-specified,1,Middle,0.2,0.0,0.6,0.673,5,not confirmed,1.0,confirmed,1
+T1S,gpt,P1 - P0,P1,P0,share_open,lower,pre-specified,1,Late,-0.15384615384615385,-0.38461538461538464,0.0,0.216,13,not confirmed,1.0,confirmed,1
+T1S,gpt,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,overall,0.16892833874541732,0.05064951194327041,0.2951198939377269,0.004,804,confirmed,0.008,confirmed,0
+T1S,gpt,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,Early,0.1742528911212097,0.021797085122774798,0.35424663952276647,0.021,268,confirmed,0.126,confirmed,0
+T1S,gpt,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,Middle,0.08934788292338255,-0.09863902127353005,0.29027487747027875,0.368,268,not confirmed,0.909,not confirmed,0
+T1S,gpt,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,Late,0.24318424219165963,0.0027676644282570093,0.5281538751958653,0.046,268,confirmed,0.22999999999999998,confirmed,0
+T1S,gpt,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,overall,0.5445030507027258,0.319594389650114,0.762356999622546,0.0,804,confirmed,0.0,confirmed,0
+T1S,gpt,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,Early,0.476957027125808,0.17257379225686667,0.7866452296819257,0.001,268,confirmed,0.009000000000000001,confirmed,0
+T1S,gpt,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,Middle,0.39694607719095254,0.1226775668022519,0.7062628952303819,0.0,268,confirmed,0.0,confirmed,0
+T1S,gpt,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,Late,0.7596060477914165,0.1802570321481562,1.2989383774132883,0.01,268,confirmed,0.07,confirmed,0
+T1S,gpt,P3 - P0,P3,P0,share_open,higher,pre-specified,1,overall,0.6,0.2,1.0,0.019,5,confirmed,0.056999999999999995,confirmed,0
+T1S,gpt,P3 - P0,P3,P0,share_open,higher,pre-specified,1,Early,0.5,0.0,1.0,0.512,2,not confirmed,1.0,confirmed,1
+T1S,gpt,P3 - P0,P3,P0,share_open,higher,pre-specified,1,Middle,,,,,0,not confirmed,,confirmed,1
+T1S,gpt,P3 - P0,P3,P0,share_open,higher,pre-specified,1,Late,0.6666666666666666,0.0,1.0,0.086,3,not confirmed,0.64,confirmed,1
+T1S,gpt,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,overall,2.0106467656910483,1.7018388149900852,2.33755485582795,0.0,804,confirmed,0.0,confirmed,0
+T1S,gpt,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,Early,2.64776616830177,2.141659241578351,3.1862768761113944,0.0,268,confirmed,0.0,confirmed,0
+T1S,gpt,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,Middle,1.5976203971175074,1.200642898244963,2.056628663504707,0.0,268,confirmed,0.0,confirmed,0
+T1S,gpt,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,Late,1.7865537316538673,1.1592739364693887,2.4229780591970385,0.0,268,confirmed,0.0,confirmed,0
+T1S,gpt,P4 - P0,P4,P0,share_open,higher,pre-specified,1,overall,,,,,0,not confirmed,,confirmed,1
+T1S,gpt,P4 - P0,P4,P0,share_open,higher,pre-specified,1,Early,,,,,0,not confirmed,,confirmed,1
+T1S,gpt,P4 - P0,P4,P0,share_open,higher,pre-specified,1,Middle,,,,,0,not confirmed,,confirmed,1
+T1S,gpt,P4 - P0,P4,P0,share_open,higher,pre-specified,1,Late,,,,,0,not confirmed,,confirmed,1
+T1S,gpt,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,overall,-3.987849902814613,-5.170083161287944,-2.7746180706517363,0.0,804,confirmed,0.0,confirmed,0
+T1S,gpt,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,Early,-4.196383036188782,-6.248860250333015,-2.116403146221958,0.0,268,confirmed,0.0,confirmed,0
+T1S,gpt,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,Middle,-4.333360799272446,-6.5275467126030104,-2.2894327131988366,0.0,268,confirmed,0.0,confirmed,0
+T1S,gpt,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,Late,-3.4338058729826115,-5.225957436477558,-1.6582713057932594,0.0,268,confirmed,0.0,confirmed,0
+T1S,gpt,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,overall,1.4661437149883227,1.176371013725322,1.777051911140197,0.0,804,confirmed,0.0,confirmed,0
+T1S,gpt,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,Early,2.170809141175962,1.640018457578716,2.7120756255688745,0.0,268,confirmed,0.0,confirmed,0
+T1S,gpt,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,Middle,1.200674319926555,0.7562554234493474,1.6440435029336533,0.0,268,confirmed,0.0,confirmed,0
+T1S,gpt,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,Late,1.0269476838624507,0.46687176574347283,1.604082724126453,0.001,268,confirmed,0.009000000000000001,confirmed,0
+T1S,gpt,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,overall,-0.5666884949386165,-1.5806613841871446,0.41717772802679765,0.266,804,not confirmed,0.266,confirmed,1
+T1S,gpt,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,Early,-0.6733902252291948,-2.741764477944002,1.35997349599205,0.489,268,not confirmed,1.0,confirmed,1
+T1S,gpt,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,Middle,-0.4679944067019246,-2.0713671059766714,1.2064483023011852,0.58,268,not confirmed,1.0,confirmed,1
+T1S,gpt,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,Late,-0.5586808528847304,-2.1579663332128414,1.0425363308833002,0.481,268,not confirmed,1.0,confirmed,1
+T1S,gpt,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,overall,0.38749425331582454,0.2600539148733423,0.5256716599127661,0.0,804,confirmed,0.0,confirmed,0
+T1S,gpt,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,Early,0.8580225308426408,0.5305768199952705,1.2012881489855174,0.0,268,confirmed,0.0,confirmed,0
+T1S,gpt,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,Middle,0.20171178360494937,0.07367415740844649,0.3519906342348408,0.001,268,confirmed,0.002,confirmed,0
+T1S,gpt,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,Late,0.10274844549988356,0.01203659123736158,0.23474294185149916,0.03,268,confirmed,0.03,confirmed,0
+T1S,gpt,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,overall,0.0,0.0,0.0,1.0,804,not confirmed,1.0,not confirmed,0
+T1S,gpt,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,Early,0.0,0.0,0.0,1.0,268,not confirmed,1.0,not confirmed,0
+T1S,gpt,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,Middle,0.0,0.0,0.0,1.0,268,not confirmed,1.0,not confirmed,0
+T1S,gpt,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,Late,0.0,0.0,0.0,1.0,268,not confirmed,1.0,not confirmed,0
+T1S,gpt,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,overall,0.0,0.0,0.0,1.0,804,not confirmed,1.0,confirmed,1
+T1S,gpt,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,Early,0.0,0.0,0.0,1.0,268,not confirmed,1.0,confirmed,1
+T1S,gpt,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,Middle,0.0,0.0,0.0,1.0,268,not confirmed,1.0,not confirmed,0
+T1S,gpt,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,Late,0.0,0.0,0.0,1.0,268,not confirmed,1.0,not confirmed,0
+T1S,gpt,P5 - P0,P5,P0,share_open,lower,pre-specified,1,overall,-0.047619047619047616,-0.15789473684210525,0.0,0.74,21,not confirmed,1.0,confirmed,1
+T1S,gpt,P5 - P0,P5,P0,share_open,lower,pre-specified,1,Early,0.0,0.0,0.0,1.0,12,not confirmed,1.0,confirmed,1
+T1S,gpt,P5 - P0,P5,P0,share_open,lower,pre-specified,1,Middle,0.0,0.0,0.0,1.0,2,not confirmed,1.0,confirmed,1
+T1S,gpt,P5 - P0,P5,P0,share_open,lower,pre-specified,1,Late,-0.14285714285714285,-0.42857142857142855,0.0,0.666,7,not confirmed,1.0,confirmed,1
+T1S,gpt,P5 - P0,P5,P0,has_question,lower,pre-specified,0,overall,-0.013681592039800995,-0.033582089552238806,0.006218905472636816,0.189,804,not confirmed,0.189,confirmed,1
+T1S,gpt,P5 - P0,P5,P0,has_question,lower,pre-specified,0,Early,0.007462686567164179,-0.041044776119402986,0.055970149253731345,0.829,268,not confirmed,1.0,confirmed,1
+T1S,gpt,P5 - P0,P5,P0,has_question,lower,pre-specified,0,Middle,-0.007462686567164179,-0.026119402985074626,0.011194029850746268,0.546,268,not confirmed,1.0,confirmed,1
+T1S,gpt,P5 - P0,P5,P0,has_question,lower,pre-specified,0,Late,-0.041044776119402986,-0.0708955223880597,-0.014925373134328358,0.002,268,confirmed,0.006,confirmed,0
+T1S,gpt,P5 - P0,P5,P0,plan_statement_present,higher,pre-specified,0,overall,0.03855721393034826,0.026119402985074626,0.05223880597014925,0.0,804,confirmed,0.0,confirmed,0
+T1S,gpt,P5 - P0,P5,P0,plan_statement_present,higher,pre-specified,0,Early,0.03731343283582089,0.014925373134328358,0.05970149253731343,0.0,268,confirmed,0.0,confirmed,0
+T1S,gpt,P5 - P0,P5,P0,plan_statement_present,higher,pre-specified,0,Middle,0.03731343283582089,0.014925373134328358,0.05970149253731343,0.001,268,confirmed,0.001,confirmed,0
+T1S,gpt,P5 - P0,P5,P0,plan_statement_present,higher,pre-specified,0,Late,0.041044776119402986,0.018656716417910446,0.06716417910447761,0.0,268,confirmed,0.0,confirmed,0

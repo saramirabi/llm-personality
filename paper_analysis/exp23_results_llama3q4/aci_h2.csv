@@ -1,0 +1,18 @@
+model,contrast,marker,prediction_direction,specification,in_realised_rule,estimate_late_minus_early,ci_low,ci_high,p_value,verdict,p_holm
+llama3instruct,P1 - P0,psychosocial_per_100,lower,pre-specified,1,-0.0590469704340182,-0.5067447238460858,0.4063876583798564,0.79,not confirmed,1.0
+llama3instruct,P1 - P0,med_per_100,higher,pre-specified,1,-0.786337233995616,-2.1197610603923644,0.676733942965097,0.27,not confirmed,0.27
+llama3instruct,P1 - P0,share_open,lower,pre-specified,1,-0.0214053513378344,-0.1519632597588549,0.1166431232472102,0.783,not confirmed,1.0
+llama3instruct,P2 - P1,psychosocial_per_100,higher,pre-specified,1,0.2784004214525025,-0.2030233319454785,0.7689520561391012,0.264,not confirmed,1.0
+llama3instruct,P3 - P0,psychosocial_per_100,higher,pre-specified,1,-0.2590481997346323,-1.0690296223172295,0.5304236426408966,0.499,not confirmed,1.0
+llama3instruct,P3 - P0,share_open,higher,pre-specified,1,0.1598462098462098,0.0371351881064851,0.2886934891024564,0.012,opposite,0.048
+llama3instruct,P4 - P0,psychosocial_per_100,higher,pre-specified,1,-0.7908723411245973,-1.6367458871093403,0.0354864224438767,0.062,not confirmed,0.31
+llama3instruct,P4 - P0,share_open,higher,pre-specified,1,0.0878306878306878,-0.0326270827774264,0.1986930996439644,0.149,not confirmed,0.4469999999999999
+llama3instruct,P4 - P0,med_per_100,lower,pre-specified,1,-1.7087714947274348,-3.1015619371813754,-0.3652305259583209,0.012,opposite,0.036
+llama3instruct,P4 - P3,psychosocial_per_100,higher,pre-specified,1,-0.5318241413899649,-1.479633092790801,0.3715367207647206,0.268,not confirmed,1.0
+llama3instruct,P4 - P3,med_per_100,lower,pre-specified,1,-1.0245021079488432,-2.239372500219769,0.1731941638619599,0.096,not confirmed,0.192
+llama3instruct,P5 - P0,instruction_per_100,higher,pre-specified,1,0.3546141461217435,0.2049393715201719,0.4997750484272832,0.0,opposite,0.0
+llama3instruct,P5 - P0,n_leading,higher,pre-specified,1,0.0147058823529411,0.0,0.034313725490196,0.096,not confirmed,0.096
+llama3instruct,P5 - P0,invitation_per_100,lower,pre-specified,1,0.2693128801516878,0.0317978611502988,0.4959392853240464,0.026,confirmed,0.026
+llama3instruct,P5 - P0,share_open,lower,pre-specified,1,0.0250854823762502,-0.1205989632716677,0.1646869142830307,0.719,not confirmed,1.0
+llama3instruct,P5 - P0,has_question,lower,pre-specified,0,-0.0931372549019607,-0.1862745098039215,-0.0049019607843137,0.048,opposite,0.048
+llama3instruct,P5 - P0,plan_statement_present,higher,pre-specified,0,0.0686274509803921,-0.0441176470588235,0.1764705882352941,0.221,not confirmed,0.221

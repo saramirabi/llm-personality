@@ -1,0 +1,18 @@
+contrast,marker,verdict_main,verdict_sensitivity,changed,plan_sha256
+P1 - P0,med_per_100,not confirmed,not confirmed,0,e33bdf0004f1e97aa30a4e8dd1a124f1bc20586c4104f7eeb9d3434654cfff73
+P1 - P0,psychosocial_per_100,not confirmed,not confirmed,0,e33bdf0004f1e97aa30a4e8dd1a124f1bc20586c4104f7eeb9d3434654cfff73
+P1 - P0,share_open,not confirmed,confirmed,1,e33bdf0004f1e97aa30a4e8dd1a124f1bc20586c4104f7eeb9d3434654cfff73
+P2 - P1,psychosocial_per_100,not confirmed,not confirmed,0,e33bdf0004f1e97aa30a4e8dd1a124f1bc20586c4104f7eeb9d3434654cfff73
+P3 - P0,psychosocial_per_100,confirmed,confirmed,0,e33bdf0004f1e97aa30a4e8dd1a124f1bc20586c4104f7eeb9d3434654cfff73
+P3 - P0,share_open,not confirmed,not confirmed,0,e33bdf0004f1e97aa30a4e8dd1a124f1bc20586c4104f7eeb9d3434654cfff73
+P4 - P0,med_per_100,not confirmed,not confirmed,0,e33bdf0004f1e97aa30a4e8dd1a124f1bc20586c4104f7eeb9d3434654cfff73
+P4 - P0,psychosocial_per_100,confirmed,confirmed,0,e33bdf0004f1e97aa30a4e8dd1a124f1bc20586c4104f7eeb9d3434654cfff73
+P4 - P0,share_open,confirmed,confirmed,0,e33bdf0004f1e97aa30a4e8dd1a124f1bc20586c4104f7eeb9d3434654cfff73
+P4 - P3,med_per_100,not confirmed,not confirmed,0,e33bdf0004f1e97aa30a4e8dd1a124f1bc20586c4104f7eeb9d3434654cfff73
+P4 - P3,psychosocial_per_100,confirmed,confirmed,0,e33bdf0004f1e97aa30a4e8dd1a124f1bc20586c4104f7eeb9d3434654cfff73
+P5 - P0,has_question,not confirmed,not confirmed,0,e33bdf0004f1e97aa30a4e8dd1a124f1bc20586c4104f7eeb9d3434654cfff73
+P5 - P0,instruction_per_100,not confirmed,not confirmed,0,e33bdf0004f1e97aa30a4e8dd1a124f1bc20586c4104f7eeb9d3434654cfff73
+P5 - P0,invitation_per_100,not confirmed,not confirmed,0,e33bdf0004f1e97aa30a4e8dd1a124f1bc20586c4104f7eeb9d3434654cfff73
+P5 - P0,n_leading,not confirmed,not confirmed,0,e33bdf0004f1e97aa30a4e8dd1a124f1bc20586c4104f7eeb9d3434654cfff73
+P5 - P0,plan_statement_present,not confirmed,not confirmed,0,e33bdf0004f1e97aa30a4e8dd1a124f1bc20586c4104f7eeb9d3434654cfff73
+P5 - P0,share_open,not confirmed,not confirmed,0,e33bdf0004f1e97aa30a4e8dd1a124f1bc20586c4104f7eeb9d3434654cfff73

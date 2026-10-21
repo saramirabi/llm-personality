@@ -1,0 +1,69 @@
+model,contrast,left,right,marker,direction,specification,in_realised_rule,scope,estimate,ci_low,ci_high,p_value,n_pairs,verdict,p_holm
+gpt,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,overall,-0.5992113250483716,-0.7974650177496329,-0.4103223403567585,0.0,612,confirmed,0.0
+gpt,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,Early,-0.9627747575881396,-1.3014713284670412,-0.6511276142396457,0.0,204,confirmed,0.0
+gpt,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,Middle,-0.6302171996477743,-0.9610296687068216,-0.3070703043187175,0.0,204,confirmed,0.0
+gpt,P1 - P0,P1,P0,psychosocial_per_100,lower,pre-specified,1,Late,-0.2046420179092006,-0.4891050163973601,0.0561383204982782,0.132,204,not confirmed,0.132
+gpt,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,overall,1.712907559892882,1.2074282370531164,2.237269409090624,0.0,612,confirmed,0.0
+gpt,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,Early,1.2986861911455545,0.4081735974733338,2.2672436114465904,0.005,204,confirmed,0.015
+gpt,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,Middle,1.79958911572645,0.9045111269320324,2.694968386501624,0.0,204,confirmed,0.0
+gpt,P1 - P0,P1,P0,med_per_100,higher,pre-specified,1,Late,2.040447372806642,1.200375099557247,2.8675959276455907,0.0,204,confirmed,0.0
+gpt,P1 - P0,P1,P0,share_open,lower,pre-specified,1,overall,-0.0475562072336265,-0.109214243974857,0.0181125619289291,0.138,341,not confirmed,0.138
+gpt,P1 - P0,P1,P0,share_open,lower,pre-specified,1,Early,0.0875757575757575,0.0050176767676767,0.1697020202020202,0.04,165,opposite,0.12
+gpt,P1 - P0,P1,P0,share_open,lower,pre-specified,1,Middle,-0.1228813559322034,-0.2189265536723164,-0.0254237288135593,0.01,118,confirmed,0.05
+gpt,P1 - P0,P1,P0,share_open,lower,pre-specified,1,Late,-0.278735632183908,-0.4310344827586206,-0.132183908045977,0.0,58,confirmed,0.0
+gpt,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,overall,0.5663536455189151,0.406591467669422,0.7344325423358928,0.0,612,confirmed,0.0
+gpt,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,Early,0.7931565304274556,0.5247409805027397,1.058492797437805,0.0,204,confirmed,0.0
+gpt,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,Middle,0.5718775710489812,0.279957357716727,0.8637616289182126,0.0,204,confirmed,0.0
+gpt,P2 - P1,P2,P1,psychosocial_per_100,higher,pre-specified,1,Late,0.3340268350803088,0.1162513176876262,0.5621633284369585,0.001,204,confirmed,0.002
+gpt,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,overall,3.4850219443281207,3.2296060782604443,3.725357367974448,0.0,612,confirmed,0.0
+gpt,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,Early,3.8447966673632017,3.3680688563258525,4.298349047748074,0.0,204,confirmed,0.0
+gpt,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,Middle,3.548314475277539,3.078395336125637,4.016664739572895,0.0,204,confirmed,0.0
+gpt,P3 - P0,P3,P0,psychosocial_per_100,higher,pre-specified,1,Late,3.061954690343622,2.645586449133468,3.4445366299006794,0.0,204,confirmed,0.0
+gpt,P3 - P0,P3,P0,share_open,higher,pre-specified,1,overall,0.0657248157248157,0.0145972507902991,0.1117328694619435,0.01,407,confirmed,0.02
+gpt,P3 - P0,P3,P0,share_open,higher,pre-specified,1,Early,0.0774509803921568,0.009313725490196,0.1450980392156862,0.026,170,confirmed,0.104
+gpt,P3 - P0,P3,P0,share_open,higher,pre-specified,1,Middle,0.0161870503597122,-0.0641636690647482,0.0941396882494003,0.671,139,not confirmed,0.671
+gpt,P3 - P0,P3,P0,share_open,higher,pre-specified,1,Late,0.1156462585034013,-0.010204081632653,0.2397959183673469,0.072,98,not confirmed,0.144
+gpt,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,overall,5.016588385795303,4.714735166249875,5.316886435245277,0.0,612,confirmed,0.0
+gpt,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,Early,5.945993979654237,5.455669403345784,6.4347187260173175,0.0,204,confirmed,0.0
+gpt,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,Middle,5.078633534498182,4.522629430920662,5.607078582669686,0.0,204,confirmed,0.0
+gpt,P4 - P0,P4,P0,psychosocial_per_100,higher,pre-specified,1,Late,4.025137643233488,3.57540171085883,4.48419782961185,0.0,204,confirmed,0.0
+gpt,P4 - P0,P4,P0,share_open,higher,pre-specified,1,overall,0.2372408293460925,0.1862498278888851,0.2846245125429253,0.0,418,confirmed,0.0
+gpt,P4 - P0,P4,P0,share_open,higher,pre-specified,1,Early,0.259047619047619,0.1809523809523809,0.3324047619047617,0.0,175,confirmed,0.0
+gpt,P4 - P0,P4,P0,share_open,higher,pre-specified,1,Middle,0.1942528735632184,0.1103160919540229,0.2770114942528735,0.0,145,confirmed,0.0
+gpt,P4 - P0,P4,P0,share_open,higher,pre-specified,1,Late,0.2619047619047618,0.1394132653061224,0.3826530612244898,0.0,98,confirmed,0.0
+gpt,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,overall,-1.9359069124850357,-2.4785243487731368,-1.387851125182408,0.0,612,confirmed,0.0
+gpt,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,Early,-1.9588346614383811,-2.9753018861490537,-0.9137168618778428,0.0,204,confirmed,0.0
+gpt,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,Middle,-1.4807315454083272,-2.305432818973498,-0.6267862414466193,0.002,204,confirmed,0.008
+gpt,P4 - P0,P4,P0,med_per_100,lower,pre-specified,1,Late,-2.3681545306083973,-3.1693075039302,-1.5928399578234211,0.0,204,confirmed,0.0
+gpt,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,overall,1.531566441467182,1.279409369209428,1.810697560387821,0.0,612,confirmed,0.0
+gpt,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,Early,2.101197312291036,1.658264666402211,2.541559931853276,0.0,204,confirmed,0.0
+gpt,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,Middle,1.530319059220643,1.0025298920305974,2.0215115191327286,0.0,204,confirmed,0.0
+gpt,P4 - P3,P4,P3,psychosocial_per_100,higher,pre-specified,1,Late,0.9631829528898668,0.5046254742462523,1.4353748346047366,0.0,204,confirmed,0.0
+gpt,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,overall,-0.8948780635004442,-1.2909029121412967,-0.4647205448082058,0.0,612,confirmed,0.0
+gpt,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,Early,-1.0240986095376114,-1.7201143603758389,-0.2808091144879268,0.008,204,confirmed,0.016
+gpt,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,Middle,-0.5981221179392695,-1.2439594697972904,0.0754743667952784,0.082,204,not confirmed,0.082
+gpt,P4 - P3,P4,P3,med_per_100,lower,pre-specified,1,Late,-1.062413463024452,-1.6887539859357152,-0.4048434285278132,0.0,204,confirmed,0.0
+gpt,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,overall,0.6214483425699495,0.5446910961945394,0.7017875858208641,0.0,612,confirmed,0.0
+gpt,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,Early,0.6794874114786754,0.5512717209308486,0.8233679878494142,0.0,204,confirmed,0.0
+gpt,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,Middle,0.6813488468104086,0.559132258107678,0.8141265174531357,0.0,204,confirmed,0.0
+gpt,P5 - P0,P5,P0,instruction_per_100,higher,pre-specified,1,Late,0.5035087694207646,0.3967269642360143,0.6201950923485594,0.0,204,confirmed,0.0
+gpt,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,overall,0.0016339869281045,0.0,0.0049019607843137,0.735,612,not confirmed,0.735
+gpt,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,Early,0.0,0.0,0.0,1.0,204,not confirmed,1.0
+gpt,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,Middle,0.0,0.0,0.0,1.0,204,not confirmed,1.0
+gpt,P5 - P0,P5,P0,n_leading,higher,pre-specified,1,Late,0.0049019607843137,0.0,0.0147058823529411,0.735,204,not confirmed,1.0
+gpt,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,overall,-0.082135545153767,-0.1385113160616643,-0.0292437935187755,0.002,612,confirmed,0.002
+gpt,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,Early,-0.1181953791480028,-0.2346473530216244,-0.023051226818482,0.014,204,confirmed,0.042
+gpt,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,Middle,-0.062915307881299,-0.1340193503317462,0.0043478327949321,0.073,204,not confirmed,0.146
+gpt,P5 - P0,P5,P0,invitation_per_100,lower,pre-specified,1,Late,-0.0652959484319992,-0.1693878994798209,0.0299820209154143,0.189,204,not confirmed,0.189
+gpt,P5 - P0,P5,P0,share_open,lower,pre-specified,1,overall,-0.1659125188536953,-0.2219760101010101,-0.1051296763432857,0.0,221,confirmed,0.0
+gpt,P5 - P0,P5,P0,share_open,lower,pre-specified,1,Early,-0.1074074074074073,-0.187037037037037,-0.0296296296296296,0.004,90,confirmed,0.028
+gpt,P5 - P0,P5,P0,share_open,lower,pre-specified,1,Middle,-0.1689189189189189,-0.2905405405405405,-0.0471283783783793,0.004,74,confirmed,0.028
+gpt,P5 - P0,P5,P0,share_open,lower,pre-specified,1,Late,-0.2543859649122807,-0.3947368421052631,-0.1228070175438596,0.001,57,confirmed,0.008
+gpt,P5 - P0,P5,P0,has_question,lower,pre-specified,0,overall,-0.3104575163398693,-0.3513071895424836,-0.2712418300653594,0.0,612,confirmed,0.0
+gpt,P5 - P0,P5,P0,has_question,lower,pre-specified,0,Early,-0.4019607843137255,-0.4754901960784313,-0.3235294117647059,0.0,204,confirmed,0.0
+gpt,P5 - P0,P5,P0,has_question,lower,pre-specified,0,Middle,-0.3382352941176471,-0.4117647058823529,-0.2647058823529412,0.0,204,confirmed,0.0
+gpt,P5 - P0,P5,P0,has_question,lower,pre-specified,0,Late,-0.1911764705882352,-0.2598039215686274,-0.1127450980392156,0.0,204,confirmed,0.0
+gpt,P5 - P0,P5,P0,plan_statement_present,higher,pre-specified,0,overall,0.4084967320261438,0.3594771241830065,0.457516339869281,0.0,612,confirmed,0.0
+gpt,P5 - P0,P5,P0,plan_statement_present,higher,pre-specified,0,Early,0.3627450980392157,0.2941176470588235,0.4362745098039216,0.0,204,confirmed,0.0
+gpt,P5 - P0,P5,P0,plan_statement_present,higher,pre-specified,0,Middle,0.4950980392156863,0.4166666666666667,0.5735294117647058,0.0,204,confirmed,0.0
+gpt,P5 - P0,P5,P0,plan_statement_present,higher,pre-specified,0,Late,0.3676470588235294,0.284313725490196,0.4509803921568627,0.0,204,confirmed,0.0

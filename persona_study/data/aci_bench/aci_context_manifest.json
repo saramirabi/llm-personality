@@ -1,0 +1,50 @@
+{
+  "source": "https://github.com/wyim/aci-bench/tree/main/data/challenge_data",
+  "splits": [
+    "train",
+    "valid",
+    "test1",
+    "test2",
+    "test3"
+  ],
+  "seed": 20261002,
+  "min_completed_exchanges": 2,
+  "min_spacing": 2,
+  "contexts": 612,
+  "dialogues": 204,
+  "dropped": [
+    {
+      "dataset": "valid",
+      "encounter_id": "D2N076"
+    },
+    {
+      "dataset": "valid",
+      "encounter_id": "D2N085"
+    },
+    {
+      "dataset": "test1",
+      "encounter_id": "D2N099"
+    }
+  ],
+  "counts": {
+    "test1:Early": 39,
+    "test1:Late": 39,
+    "test1:Middle": 39,
+    "test2:Early": 40,
+    "test2:Late": 40,
+    "test2:Middle": 40,
+    "test3:Early": 40,
+    "test3:Late": 40,
+    "test3:Middle": 40,
+    "train:Early": 67,
+    "train:Late": 67,
+    "train:Middle": 67,
+    "valid:Early": 18,
+    "valid:Late": 18,
+    "valid:Middle": 18
+  },
+  "context_words_min": 21,
+  "context_words_median": 467,
+  "context_words_max": 2687,
+  "notes_included": false
+}
